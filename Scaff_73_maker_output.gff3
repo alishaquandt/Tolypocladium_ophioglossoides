@@ -1,0 +1,986 @@
+##gff-version 3
+scaffold_73	.	contig	1	28392	.	.	.	ID=scaffold_73;Name=scaffold_73;
+scaffold_73	repeatmasker	match	535	619	29	+	.	ID=scaffold_73:hit:204553;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 1 85 +;
+scaffold_73	repeatmasker	match_part	535	619	29	+	.	ID=scaffold_73:hsp:464682;Parent=scaffold_73:hit:204553;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 1 85 +;
+scaffold_73	repeatmasker	match	3922	4047	56	+	.	ID=scaffold_73:hit:204554;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 1 126 +;
+scaffold_73	repeatmasker	match_part	3922	4047	56	+	.	ID=scaffold_73:hsp:464683;Parent=scaffold_73:hit:204554;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 1 126 +;
+scaffold_73	repeatmasker	match	7429	7519	42	+	.	ID=scaffold_73:hit:204555;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 1 91 +;
+scaffold_73	repeatmasker	match_part	7429	7519	42	+	.	ID=scaffold_73:hsp:464684;Parent=scaffold_73:hit:204555;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 1 91 +;
+scaffold_73	repeatmasker	match	19211	19235	25	+	.	ID=scaffold_73:hit:204556;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 1 25 +;
+scaffold_73	repeatmasker	match_part	19211	19235	25	+	.	ID=scaffold_73:hsp:464685;Parent=scaffold_73:hit:204556;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 1 25 +;
+scaffold_73	repeatmasker	match	20730	20756	27	+	.	ID=scaffold_73:hit:204557;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 1 27 +;
+scaffold_73	repeatmasker	match_part	20730	20756	27	+	.	ID=scaffold_73:hsp:464686;Parent=scaffold_73:hit:204557;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 1 27 +;
+scaffold_73	repeatmasker	match	21324	21468	232	+	.	ID=scaffold_73:hit:204558;Name=species:A-rich%20genus:Low_complexity;Target=species:A-rich%20genus:Low_complexity 17 162 +;
+scaffold_73	repeatmasker	match_part	21324	21468	232	+	.	ID=scaffold_73:hsp:464687;Parent=scaffold_73:hit:204558;Name=species:A-rich%2520genus:Low_complexity;Target=species:A-rich%2520genus:Low_complexity 17 162 +;
+scaffold_73	repeatmasker	match	21697	21747	211	+	.	ID=scaffold_73:hit:204559;Name=species:A-rich%20genus:Low_complexity;Target=species:A-rich%20genus:Low_complexity 5 55 +;
+scaffold_73	repeatmasker	match_part	21697	21747	211	+	.	ID=scaffold_73:hsp:464688;Parent=scaffold_73:hit:204559;Name=species:A-rich%2520genus:Low_complexity;Target=species:A-rich%2520genus:Low_complexity 5 55 +;
+scaffold_73	repeatmasker	match	5529	5574	203	+	.	ID=scaffold_73:hit:204560;Name=species:%28TA%29n%20genus:Simple_repeat;Target=species:%28TA%29n%20genus:Simple_repeat 1 48 +;
+scaffold_73	repeatmasker	match_part	5529	5574	203	+	.	ID=scaffold_73:hsp:464689;Parent=scaffold_73:hit:204560;Name=species:%2528TA%2529n%2520genus:Simple_repeat;Target=species:%2528TA%2529n%2520genus:Simple_repeat 1 48 +;
+scaffold_73	repeatmasker	match	22682	22727	205	+	.	ID=scaffold_73:hit:204561;Name=species:%28TA%29n%20genus:Simple_repeat;Target=species:%28TA%29n%20genus:Simple_repeat 1 48 +;
+scaffold_73	repeatmasker	match_part	22682	22727	205	+	.	ID=scaffold_73:hsp:464690;Parent=scaffold_73:hit:204561;Name=species:%2528TA%2529n%2520genus:Simple_repeat;Target=species:%2528TA%2529n%2520genus:Simple_repeat 1 48 +;
+scaffold_73	repeatmasker	match	535	619	29	+	.	ID=scaffold_73:hit:204562;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 77 161 +;
+scaffold_73	repeatmasker	match_part	535	619	29	+	.	ID=scaffold_73:hsp:464691;Parent=scaffold_73:hit:204562;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 77 161 +;
+scaffold_73	repeatmasker	match	3922	4047	56	+	.	ID=scaffold_73:hit:204563;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 87 212 +;
+scaffold_73	repeatmasker	match_part	3922	4047	56	+	.	ID=scaffold_73:hsp:464692;Parent=scaffold_73:hit:204563;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 87 212 +;
+scaffold_73	repeatmasker	match	7429	7519	42	+	.	ID=scaffold_73:hit:204564;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 141 231 +;
+scaffold_73	repeatmasker	match_part	7429	7519	42	+	.	ID=scaffold_73:hsp:464693;Parent=scaffold_73:hit:204564;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 141 231 +;
+scaffold_73	repeatmasker	match	19211	19235	25	+	.	ID=scaffold_73:hit:204565;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 140 164 +;
+scaffold_73	repeatmasker	match_part	19211	19235	25	+	.	ID=scaffold_73:hsp:464694;Parent=scaffold_73:hit:204565;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 140 164 +;
+scaffold_73	repeatmasker	match	20730	20756	27	+	.	ID=scaffold_73:hit:204566;Name=species:AT_rich%20genus:Low_complexity;Target=species:AT_rich%20genus:Low_complexity 137 163 +;
+scaffold_73	repeatmasker	match_part	20730	20756	27	+	.	ID=scaffold_73:hsp:464695;Parent=scaffold_73:hit:204566;Name=species:AT_rich%2520genus:Low_complexity;Target=species:AT_rich%2520genus:Low_complexity 137 163 +;
+scaffold_73	repeatmasker	match	21697	21747	211	+	.	ID=scaffold_73:hit:204567;Name=species:%28TAAAA%29n%20genus:Simple_repeat;Target=species:%28TAAAA%29n%20genus:Simple_repeat 5 55 +;
+scaffold_73	repeatmasker	match_part	21697	21747	211	+	.	ID=scaffold_73:hsp:464696;Parent=scaffold_73:hit:204567;Name=species:%2528TAAAA%2529n%2520genus:Simple_repeat;Target=species:%2528TAAAA%2529n%2520genus:Simple_repeat 5 55 +;
+scaffold_73	repeatmasker	match	21324	21468	232	+	.	ID=scaffold_73:hit:204568;Name=species:%28TAAA%29n%20genus:Simple_repeat;Target=species:%28TAAA%29n%20genus:Simple_repeat 17 162 +;
+scaffold_73	repeatmasker	match_part	21324	21468	232	+	.	ID=scaffold_73:hsp:464697;Parent=scaffold_73:hit:204568;Name=species:%2528TAAA%2529n%2520genus:Simple_repeat;Target=species:%2528TAAA%2529n%2520genus:Simple_repeat 17 162 +;
+scaffold_73	repeatmasker	match	5529	5574	203	+	.	ID=scaffold_73:hit:204569;Name=species:%28TA%29n%20genus:Simple_repeat;Target=species:%28TA%29n%20genus:Simple_repeat 93 140 +;
+scaffold_73	repeatmasker	match_part	5529	5574	203	+	.	ID=scaffold_73:hsp:464698;Parent=scaffold_73:hit:204569;Name=species:%2528TA%2529n%2520genus:Simple_repeat;Target=species:%2528TA%2529n%2520genus:Simple_repeat 93 140 +;
+scaffold_73	repeatmasker	match	22682	22727	205	+	.	ID=scaffold_73:hit:204570;Name=species:%28TA%29n%20genus:Simple_repeat;Target=species:%28TA%29n%20genus:Simple_repeat 133 180 +;
+scaffold_73	repeatmasker	match_part	22682	22727	205	+	.	ID=scaffold_73:hsp:464699;Parent=scaffold_73:hit:204570;Name=species:%2528TA%2529n%2520genus:Simple_repeat;Target=species:%2528TA%2529n%2520genus:Simple_repeat 133 180 +;
+scaffold_73	repeatmasker	match	19584	19634	235	+	.	ID=scaffold_73:hit:204571;Name=species:LSU-rRNA_Sce%20genus:rRNA;Target=species:LSU-rRNA_Sce%20genus:rRNA 1891 1941 +;
+scaffold_73	repeatmasker	match_part	19584	19634	235	+	.	ID=scaffold_73:hsp:464700;Parent=scaffold_73:hit:204571;Name=species:LSU-rRNA_Sce%2520genus:rRNA;Target=species:LSU-rRNA_Sce%2520genus:rRNA 1891 1941 +;
+scaffold_73	repeatmasker	match	19689	19922	297	+	.	ID=scaffold_73:hit:204572;Name=species:LSU-rRNA_Sce%20genus:rRNA;Target=species:LSU-rRNA_Sce%20genus:rRNA 2129 2341 +;
+scaffold_73	repeatmasker	match_part	19689	19922	297	+	.	ID=scaffold_73:hsp:464701;Parent=scaffold_73:hit:204572;Name=species:LSU-rRNA_Sce%2520genus:rRNA;Target=species:LSU-rRNA_Sce%2520genus:rRNA 2129 2341 +;
+scaffold_73	repeatmasker	match	22426	22547	312	+	.	ID=scaffold_73:hit:204573;Name=species:LSU-rRNA_Sce%20genus:rRNA;Target=species:LSU-rRNA_Sce%20genus:rRNA 2856 2976 +;
+scaffold_73	repeatmasker	match_part	22426	22547	312	+	.	ID=scaffold_73:hsp:464702;Parent=scaffold_73:hit:204573;Name=species:LSU-rRNA_Sce%2520genus:rRNA;Target=species:LSU-rRNA_Sce%2520genus:rRNA 2856 2976 +;
+scaffold_73	blastn	expressed_sequence_match	18145	23380	116	+	.	ID=scaffold_73:hit:204574;Name=comp69_c0_seq2;
+scaffold_73	blastn	match_part	18145	18284	116	+	.	ID=scaffold_73:hsp:464703;Parent=scaffold_73:hit:204574;Name=comp69_c0_seq2;Target=comp69_c0_seq2 1 140 +;Gap=M140;
+scaffold_73	blastn	match_part	18342	19533	1117	+	.	ID=scaffold_73:hsp:464704;Parent=scaffold_73:hit:204574;Name=comp69_c0_seq2;Target=comp69_c0_seq2 198 1389 +;Gap=M1192;
+scaffold_73	blastn	match_part	19973	20371	395	+	.	ID=scaffold_73:hsp:464705;Parent=scaffold_73:hit:204574;Name=comp69_c0_seq2;Target=comp69_c0_seq2 1829 2227 +;Gap=M399;
+scaffold_73	blastn	match_part	20431	20664	234	+	.	ID=scaffold_73:hsp:464706;Parent=scaffold_73:hit:204574;Name=comp69_c0_seq2;Target=comp69_c0_seq2 2287 2520 +;Gap=M234;
+scaffold_73	blastn	match_part	22598	22675	78	+	.	ID=scaffold_73:hsp:464707;Parent=scaffold_73:hit:204574;Name=comp69_c0_seq2;Target=comp69_c0_seq2 2735 2812 +;Gap=M78;
+scaffold_73	blastn	match_part	22728	23380	649	+	.	ID=scaffold_73:hsp:464708;Parent=scaffold_73:hit:204574;Name=comp69_c0_seq2;Target=comp69_c0_seq2 2865 3517 +;Gap=M653;
+scaffold_73	blastn	expressed_sequence_match	28034	28351	310	+	.	ID=scaffold_73:hit:204575;Name=comp28807_c0_seq1;
+scaffold_73	blastn	match_part	28034	28351	310	+	.	ID=scaffold_73:hsp:464709;Parent=scaffold_73:hit:204575;Name=comp28807_c0_seq1;Target=comp28807_c0_seq1 1 318 +;Gap=M318;
+scaffold_73	blastn	expressed_sequence_match	17532	17759	228	+	.	ID=scaffold_73:hit:204576;Name=comp86638_c0_seq1;
+scaffold_73	blastn	match_part	17532	17759	228	+	.	ID=scaffold_73:hsp:464710;Parent=scaffold_73:hit:204576;Name=comp86638_c0_seq1;Target=comp86638_c0_seq1 1 228 +;Gap=M228;
+scaffold_73	blastn	expressed_sequence_match	18145	23380	649	-	.	ID=scaffold_73:hit:204577;Name=comp69_c0_seq3;
+scaffold_73	blastn	match_part	22728	23380	649	-	.	ID=scaffold_73:hsp:464711;Parent=scaffold_73:hit:204577;Name=comp69_c0_seq3;Target=comp69_c0_seq3 1 653 +;Gap=M653;
+scaffold_73	blastn	match_part	22598	22675	78	-	.	ID=scaffold_73:hsp:464712;Parent=scaffold_73:hit:204577;Name=comp69_c0_seq3;Target=comp69_c0_seq3 706 783 +;Gap=M78;
+scaffold_73	blastn	match_part	20431	20664	234	-	.	ID=scaffold_73:hsp:464713;Parent=scaffold_73:hit:204577;Name=comp69_c0_seq3;Target=comp69_c0_seq3 998 1231 +;Gap=M234;
+scaffold_73	blastn	match_part	19973	20371	395	-	.	ID=scaffold_73:hsp:464714;Parent=scaffold_73:hit:204577;Name=comp69_c0_seq3;Target=comp69_c0_seq3 1291 1689 +;Gap=M399;
+scaffold_73	blastn	match_part	18342	19533	1117	-	.	ID=scaffold_73:hsp:464715;Parent=scaffold_73:hit:204577;Name=comp69_c0_seq3;Target=comp69_c0_seq3 2129 3320 +;Gap=M1192;
+scaffold_73	blastn	match_part	18145	18284	116	-	.	ID=scaffold_73:hsp:464716;Parent=scaffold_73:hit:204577;Name=comp69_c0_seq3;Target=comp69_c0_seq3 3378 3517 +;Gap=M140;
+scaffold_73	blastn	expressed_sequence_match	27814	28043	230	+	.	ID=scaffold_73:hit:204578;Name=comp60439_c0_seq1;
+scaffold_73	blastn	match_part	27814	28043	230	+	.	ID=scaffold_73:hsp:464717;Parent=scaffold_73:hit:204578;Name=comp60439_c0_seq1;Target=comp60439_c0_seq1 3 232 +;Gap=M230;
+scaffold_73	blastn	expressed_sequence_match	8952	9297	346	-	.	ID=scaffold_73:hit:204579;Name=comp26384_c0_seq1;
+scaffold_73	blastn	match_part	8952	9297	346	-	.	ID=scaffold_73:hsp:464718;Parent=scaffold_73:hit:204579;Name=comp26384_c0_seq1;Target=comp26384_c0_seq1 1 346 +;Gap=M346;
+scaffold_73	blastn	expressed_sequence_match	13724	16812	1300	-	.	ID=scaffold_73:hit:204580;Name=comp253_c0_seq1;
+scaffold_73	blastn	match_part	15509	16812	1300	-	.	ID=scaffold_73:hsp:464719;Parent=scaffold_73:hit:204580;Name=comp253_c0_seq1;Target=comp253_c0_seq1 1 1304 +;Gap=M1304;
+scaffold_73	blastn	match_part	13882	15453	1521	-	.	ID=scaffold_73:hsp:464720;Parent=scaffold_73:hit:204580;Name=comp253_c0_seq1;Target=comp253_c0_seq1 1360 2931 +;Gap=M1572;
+scaffold_73	blastn	match_part	13724	13817	94	-	.	ID=scaffold_73:hsp:464721;Parent=scaffold_73:hit:204580;Name=comp253_c0_seq1;Target=comp253_c0_seq1 2996 3089 +;Gap=M94;
+scaffold_73	blastn	expressed_sequence_match	24744	25071	324	-	.	ID=scaffold_73:hit:204581;Name=comp19586_c0_seq1;
+scaffold_73	blastn	match_part	24744	25071	324	-	.	ID=scaffold_73:hsp:464722;Parent=scaffold_73:hit:204581;Name=comp19586_c0_seq1;Target=comp19586_c0_seq1 1 328 +;Gap=M328;
+scaffold_73	blastn	expressed_sequence_match	8627	8848	222	-	.	ID=scaffold_73:hit:204582;Name=comp33179_c0_seq1;
+scaffold_73	blastn	match_part	8627	8848	222	-	.	ID=scaffold_73:hsp:464723;Parent=scaffold_73:hit:204582;Name=comp33179_c0_seq1;Target=comp33179_c0_seq1 46 267 +;Gap=M222;
+scaffold_73	blastn	expressed_sequence_match	17741	17949	209	+	.	ID=scaffold_73:hit:204583;Name=comp64231_c0_seq1;
+scaffold_73	blastn	match_part	17741	17949	209	+	.	ID=scaffold_73:hsp:464724;Parent=scaffold_73:hit:204583;Name=comp64231_c0_seq1;Target=comp64231_c0_seq1 1 209 +;Gap=M209;
+scaffold_73	blastn	expressed_sequence_match	5742	7428	1677	-	.	ID=scaffold_73:hit:204584;Name=comp7503_c0_seq1;
+scaffold_73	blastn	match_part	5742	7428	1677	-	.	ID=scaffold_73:hsp:464725;Parent=scaffold_73:hit:204584;Name=comp7503_c0_seq1;Target=comp7503_c0_seq1 67 1753 +;Gap=M1687;
+scaffold_73	blastn	expressed_sequence_match	25607	26785	1175	-	.	ID=scaffold_73:hit:204585;Name=comp14211_c0_seq1;
+scaffold_73	blastn	match_part	25607	26785	1175	-	.	ID=scaffold_73:hsp:464726;Parent=scaffold_73:hit:204585;Name=comp14211_c0_seq1;Target=comp14211_c0_seq1 1 1179 +;Gap=M1179;
+scaffold_73	blastn	expressed_sequence_match	23770	24143	370	-	.	ID=scaffold_73:hit:204586;Name=comp30578_c0_seq1;
+scaffold_73	blastn	match_part	23770	24143	370	-	.	ID=scaffold_73:hsp:464727;Parent=scaffold_73:hit:204586;Name=comp30578_c0_seq1;Target=comp30578_c0_seq1 1 374 +;Gap=M374;
+scaffold_73	blastn	expressed_sequence_match	1	511	43	+	.	ID=scaffold_73:hit:204587;Name=comp9850_c0_seq1;
+scaffold_73	blastn	match_part	1	43	43	+	.	ID=scaffold_73:hsp:464728;Parent=scaffold_73:hit:204587;Name=comp9850_c0_seq1;Target=comp9850_c0_seq1 1 43 -;Gap=M43;
+scaffold_73	blastn	match_part	167	511	345	+	.	ID=scaffold_73:hsp:464729;Parent=scaffold_73:hit:204587;Name=comp9850_c0_seq1;Target=comp9850_c0_seq1 163 507 +;Gap=M345;
+scaffold_73	blastn	expressed_sequence_match	10787	13537	2312	-	.	ID=scaffold_73:hit:204588;Name=comp6166_c0_seq1;
+scaffold_73	blastn	match_part	11128	13537	2312	-	.	ID=scaffold_73:hsp:464730;Parent=scaffold_73:hit:204588;Name=comp6166_c0_seq1;Target=comp6166_c0_seq1 1 2410 +;Gap=M2410;
+scaffold_73	blastn	match_part	10787	11074	288	-	.	ID=scaffold_73:hsp:464731;Parent=scaffold_73:hit:204588;Name=comp6166_c0_seq1;Target=comp6166_c0_seq1 2464 2751 +;Gap=M288;
+scaffold_73	blastn	expressed_sequence_match	620	1379	760	+	.	ID=scaffold_73:hit:204589;Name=comp4258_c0_seq1;
+scaffold_73	blastn	match_part	620	1379	760	+	.	ID=scaffold_73:hsp:464732;Parent=scaffold_73:hit:204589;Name=comp4258_c0_seq1;Target=comp4258_c0_seq1 105 864 +;Gap=M760;
+scaffold_73	blastn	expressed_sequence_match	21783	22375	52	-	.	ID=scaffold_73:hit:204590;Name=comp13699_c0_seq1;
+scaffold_73	blastn	match_part	22324	22375	52	-	.	ID=scaffold_73:hsp:464733;Parent=scaffold_73:hit:204590;Name=comp13699_c0_seq1;Target=comp13699_c0_seq1 32 83 +;Gap=M52;
+scaffold_73	blastn	match_part	21783	22259	453	-	.	ID=scaffold_73:hsp:464734;Parent=scaffold_73:hit:204590;Name=comp13699_c0_seq1;Target=comp13699_c0_seq1 148 624 +;Gap=M477;
+scaffold_73	blastn	expressed_sequence_match	1577	3692	2095	-	.	ID=scaffold_73:hit:204591;Name=comp9190_c0_seq1;
+scaffold_73	blastn	match_part	1577	3692	2095	-	.	ID=scaffold_73:hsp:464735;Parent=scaffold_73:hit:204591;Name=comp9190_c0_seq1;Target=comp9190_c0_seq1 1 2116 +;Gap=M2116;
+scaffold_73	blastn	expressed_sequence_match	4048	4970	923	+	.	ID=scaffold_73:hit:204592;Name=comp12788_c0_seq1;
+scaffold_73	blastn	match_part	4048	4970	923	+	.	ID=scaffold_73:hsp:464736;Parent=scaffold_73:hit:204592;Name=comp12788_c0_seq1;Target=comp12788_c0_seq1 8 930 +;Gap=M923;
+scaffold_73	blastn	expressed_sequence_match	9582	10444	857	-	.	ID=scaffold_73:hit:204593;Name=comp16202_c0_seq1;
+scaffold_73	blastn	match_part	9582	10444	857	-	.	ID=scaffold_73:hsp:464737;Parent=scaffold_73:hit:204593;Name=comp16202_c0_seq1;Target=comp16202_c0_seq1 1 863 +;Gap=M863;
+scaffold_73	blastn	expressed_sequence_match	7711	8558	848	+	.	ID=scaffold_73:hit:204594;Name=comp11863_c0_seq1;
+scaffold_73	blastn	match_part	7711	8558	848	+	.	ID=scaffold_73:hsp:464738;Parent=scaffold_73:hit:204594;Name=comp11863_c0_seq1;Target=comp11863_c0_seq1 1 848 +;Gap=M848;
+scaffold_73	tblastx	translated_nucleotide_match	14766	15454	279	-	.	ID=scaffold_73:hit:204595;Name=CB895270;
+scaffold_73	tblastx	match_part	15296	15454	213	-	.	ID=scaffold_73:hsp:464739;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 67 225 +;Gap=M53;
+scaffold_73	tblastx	match_part	15295	15453	258	-	.	ID=scaffold_73:hsp:464740;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 68 226 +;Gap=M53;
+scaffold_73	tblastx	match_part	15294	15452	254	-	.	ID=scaffold_73:hsp:464741;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 69 227 +;Gap=M53;
+scaffold_73	tblastx	match_part	14932	15366	539	-	.	ID=scaffold_73:hsp:464742;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 156 590 +;Gap=M145;
+scaffold_73	tblastx	match_part	15096	15293	293	-	.	ID=scaffold_73:hsp:464743;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 229 426 +;Gap=M66;
+scaffold_73	tblastx	match_part	14945	15292	553	-	.	ID=scaffold_73:hsp:464744;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 230 577 +;Gap=M116;
+scaffold_73	tblastx	match_part	14940	15059	139	-	.	ID=scaffold_73:hsp:464745;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 463 582 +;Gap=M40;
+scaffold_73	tblastx	match_part	14770	14934	287	-	.	ID=scaffold_73:hsp:464746;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 590 754 +;Gap=M55;
+scaffold_73	tblastx	match_part	14766	14933	279	-	.	ID=scaffold_73:hsp:464747;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 591 758 +;Gap=M56;
+scaffold_73	tblastx	match_part	14771	14920	245	-	.	ID=scaffold_73:hsp:464748;Parent=scaffold_73:hit:204595;Name=CB895270;Target=CB895270 604 753 +;Gap=M50;
+scaffold_73	tblastx	translated_nucleotide_match	13915	14541	84	+	.	ID=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;
+scaffold_73	tblastx	match_part	13915	13968	84	+	.	ID=scaffold_73:hsp:464749;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 6 59 +;Gap=M18;
+scaffold_73	tblastx	match_part	13919	13984	105	+	.	ID=scaffold_73:hsp:464750;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 10 75 +;Gap=M22;
+scaffold_73	tblastx	match_part	13926	13985	84	+	.	ID=scaffold_73:hsp:464751;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 17 76 +;Gap=M20;
+scaffold_73	tblastx	match_part	14026	14196	153	+	.	ID=scaffold_73:hsp:464752;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 99 269 +;Gap=M57;
+scaffold_73	tblastx	match_part	14028	14195	149	+	.	ID=scaffold_73:hsp:464753;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 101 268 +;Gap=M56;
+scaffold_73	tblastx	match_part	14039	14101	82	+	.	ID=scaffold_73:hsp:464754;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 112 174 +;Gap=M21;
+scaffold_73	tblastx	match_part	14199	14333	193	+	.	ID=scaffold_73:hsp:464755;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 271 405 +;Gap=M45;
+scaffold_73	tblastx	match_part	14200	14325	201	+	.	ID=scaffold_73:hsp:464756;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 272 397 +;Gap=M42;
+scaffold_73	tblastx	match_part	14240	14341	148	+	.	ID=scaffold_73:hsp:464757;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 312 413 +;Gap=M34;
+scaffold_73	tblastx	match_part	14367	14522	190	+	.	ID=scaffold_73:hsp:464758;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 468 623 +;Gap=M52;
+scaffold_73	tblastx	match_part	14369	14536	189	+	.	ID=scaffold_73:hsp:464759;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 470 637 +;Gap=M56;
+scaffold_73	tblastx	match_part	14371	14541	199	+	.	ID=scaffold_73:hsp:464760;Parent=scaffold_73:hit:204596;Name=gi|239510017|gb|GR225173.1|GR225173;Target=gi|239510017|gb|GR225173.1|GR225173 472 642 +;Gap=M57;
+scaffold_73	tblastx	translated_nucleotide_match	13915	14541	84	+	.	ID=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;
+scaffold_73	tblastx	match_part	13915	13968	84	+	.	ID=scaffold_73:hsp:464761;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 6 59 +;Gap=M18;
+scaffold_73	tblastx	match_part	13919	13984	105	+	.	ID=scaffold_73:hsp:464762;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 10 75 +;Gap=M22;
+scaffold_73	tblastx	match_part	13926	13985	84	+	.	ID=scaffold_73:hsp:464763;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 17 76 +;Gap=M20;
+scaffold_73	tblastx	match_part	14026	14196	153	+	.	ID=scaffold_73:hsp:464764;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 99 269 +;Gap=M57;
+scaffold_73	tblastx	match_part	14028	14195	149	+	.	ID=scaffold_73:hsp:464765;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 101 268 +;Gap=M56;
+scaffold_73	tblastx	match_part	14039	14101	82	+	.	ID=scaffold_73:hsp:464766;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 112 174 +;Gap=M21;
+scaffold_73	tblastx	match_part	14199	14333	193	+	.	ID=scaffold_73:hsp:464767;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 271 405 +;Gap=M45;
+scaffold_73	tblastx	match_part	14200	14325	201	+	.	ID=scaffold_73:hsp:464768;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 272 397 +;Gap=M42;
+scaffold_73	tblastx	match_part	14240	14341	148	+	.	ID=scaffold_73:hsp:464769;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 312 413 +;Gap=M34;
+scaffold_73	tblastx	match_part	14367	14522	190	+	.	ID=scaffold_73:hsp:464770;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 468 623 +;Gap=M52;
+scaffold_73	tblastx	match_part	14369	14536	189	+	.	ID=scaffold_73:hsp:464771;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 470 637 +;Gap=M56;
+scaffold_73	tblastx	match_part	14371	14541	199	+	.	ID=scaffold_73:hsp:464772;Parent=scaffold_73:hit:204597;Name=gi|239510058|gb|GR225214.1|GR225214;Target=gi|239510058|gb|GR225214.1|GR225214 472 642 +;Gap=M57;
+scaffold_73	tblastx	translated_nucleotide_match	18547	18997	733	+	.	ID=scaffold_73:hit:204598;Name=Locus_112_Transcript_1%2F1_Confidence_1.000;
+scaffold_73	tblastx	match_part	18547	18996	733	+	.	ID=scaffold_73:hsp:464773;Parent=scaffold_73:hit:204598;Name=Locus_112_Transcript_1%252F1_Confidence_1.000;Target=Locus_112_Transcript_1%252F1_Confidence_1.000 2 451 +;Gap=M150;
+scaffold_73	tblastx	match_part	18594	18995	580	+	.	ID=scaffold_73:hsp:464774;Parent=scaffold_73:hit:204598;Name=Locus_112_Transcript_1%252F1_Confidence_1.000;Target=Locus_112_Transcript_1%252F1_Confidence_1.000 49 450 +;Gap=M134;
+scaffold_73	tblastx	match_part	18596	18997	667	+	.	ID=scaffold_73:hsp:464775;Parent=scaffold_73:hit:204598;Name=Locus_112_Transcript_1%252F1_Confidence_1.000;Target=Locus_112_Transcript_1%252F1_Confidence_1.000 51 452 +;Gap=M134;
+scaffold_73	tblastx	translated_nucleotide_match	13915	14508	84	+	.	ID=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;
+scaffold_73	tblastx	match_part	13915	13968	84	+	.	ID=scaffold_73:hsp:464776;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 11 64 +;Gap=M18;
+scaffold_73	tblastx	match_part	13919	13984	105	+	.	ID=scaffold_73:hsp:464777;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 15 80 +;Gap=M22;
+scaffold_73	tblastx	match_part	13926	13985	84	+	.	ID=scaffold_73:hsp:464778;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 22 81 +;Gap=M20;
+scaffold_73	tblastx	match_part	14028	14195	151	+	.	ID=scaffold_73:hsp:464779;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 106 273 +;Gap=M56;
+scaffold_73	tblastx	match_part	14029	14196	155	+	.	ID=scaffold_73:hsp:464780;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 107 274 +;Gap=M56;
+scaffold_73	tblastx	match_part	14039	14101	82	+	.	ID=scaffold_73:hsp:464781;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 117 179 +;Gap=M21;
+scaffold_73	tblastx	match_part	14199	14333	193	+	.	ID=scaffold_73:hsp:464782;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 276 410 +;Gap=M45;
+scaffold_73	tblastx	match_part	14200	14325	201	+	.	ID=scaffold_73:hsp:464783;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 277 402 +;Gap=M42;
+scaffold_73	tblastx	match_part	14240	14341	148	+	.	ID=scaffold_73:hsp:464784;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 317 418 +;Gap=M34;
+scaffold_73	tblastx	match_part	14367	14501	163	+	.	ID=scaffold_73:hsp:464785;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 473 607 +;Gap=M45;
+scaffold_73	tblastx	match_part	14369	14500	166	+	.	ID=scaffold_73:hsp:464786;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 475 606 +;Gap=M44;
+scaffold_73	tblastx	match_part	14371	14508	173	+	.	ID=scaffold_73:hsp:464787;Parent=scaffold_73:hit:204599;Name=gi|239510439|gb|GR224273.1|GR224273;Target=gi|239510439|gb|GR224273.1|GR224273 477 614 +;Gap=M46;
+scaffold_73	tblastx	translated_nucleotide_match	14363	14515	219	+	.	ID=scaffold_73:hit:204600;Name=gi|195947192|gb|FC809383.1|FC809383;
+scaffold_73	tblastx	match_part	14363	14515	219	+	.	ID=scaffold_73:hsp:464788;Parent=scaffold_73:hit:204600;Name=gi|195947192|gb|FC809383.1|FC809383;Target=gi|195947192|gb|FC809383.1|FC809383 1 153 +;Gap=M51;
+scaffold_73	tblastx	match_part	14364	14513	214	+	.	ID=scaffold_73:hsp:464789;Parent=scaffold_73:hit:204600;Name=gi|195947192|gb|FC809383.1|FC809383;Target=gi|195947192|gb|FC809383.1|FC809383 2 151 +;Gap=M50;
+scaffold_73	tblastx	match_part	14365	14511	210	+	.	ID=scaffold_73:hsp:464790;Parent=scaffold_73:hit:204600;Name=gi|195947192|gb|FC809383.1|FC809383;Target=gi|195947192|gb|FC809383.1|FC809383 3 149 +;Gap=M49;
+scaffold_73	tblastx	translated_nucleotide_match	13912	14689	94	+	.	ID=scaffold_73:hit:204601;Name=CB899292;
+scaffold_73	tblastx	match_part	13912	13968	94	+	.	ID=scaffold_73:hsp:464791;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 61 117 +;Gap=M19;
+scaffold_73	tblastx	match_part	13919	13987	117	+	.	ID=scaffold_73:hsp:464792;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 68 136 +;Gap=M23;
+scaffold_73	tblastx	match_part	13926	14012	103	+	.	ID=scaffold_73:hsp:464793;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 75 161 +;Gap=M29;
+scaffold_73	tblastx	match_part	14037	14111	86	+	.	ID=scaffold_73:hsp:464794;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 141 215 +;Gap=M25;
+scaffold_73	tblastx	match_part	14038	14121	115	+	.	ID=scaffold_73:hsp:464795;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 142 225 +;Gap=M28;
+scaffold_73	tblastx	match_part	14039	14113	86	+	.	ID=scaffold_73:hsp:464796;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 143 217 +;Gap=M25;
+scaffold_73	tblastx	match_part	14125	14688	825	+	.	ID=scaffold_73:hsp:464797;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 233 796 +;Gap=M188;
+scaffold_73	tblastx	match_part	14126	14182	84	+	.	ID=scaffold_73:hsp:464798;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 234 290 +;Gap=M19;
+scaffold_73	tblastx	match_part	14127	14687	801	+	.	ID=scaffold_73:hsp:464799;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 235 795 +;Gap=M187;
+scaffold_73	tblastx	match_part	14240	14689	658	+	.	ID=scaffold_73:hsp:464800;Parent=scaffold_73:hit:204601;Name=CB899292;Target=CB899292 348 797 +;Gap=M150;
+scaffold_73	tblastx	translated_nucleotide_match	14125	14758	914	+	.	ID=scaffold_73:hit:204602;Name=CB905183;
+scaffold_73	tblastx	match_part	14125	14748	914	+	.	ID=scaffold_73:hsp:464801;Parent=scaffold_73:hit:204602;Name=CB905183;Target=CB905183 93 716 +;Gap=M208;
+scaffold_73	tblastx	match_part	14126	14182	84	+	.	ID=scaffold_73:hsp:464802;Parent=scaffold_73:hit:204602;Name=CB905183;Target=CB905183 94 150 +;Gap=M19;
+scaffold_73	tblastx	match_part	14127	14750	905	+	.	ID=scaffold_73:hsp:464803;Parent=scaffold_73:hit:204602;Name=CB905183;Target=CB905183 95 718 +;Gap=M208;
+scaffold_73	tblastx	match_part	14240	14758	761	+	.	ID=scaffold_73:hsp:464804;Parent=scaffold_73:hit:204602;Name=CB905183;Target=CB905183 208 726 +;Gap=M173;
+scaffold_73	tblastx	translated_nucleotide_match	14033	14580	100	+	.	ID=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;
+scaffold_73	tblastx	match_part	14033	14110	100	+	.	ID=scaffold_73:hsp:464805;Parent=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;Target=gi|6432758|gb|AJ273386.1|AJ273386 40 117 +;Gap=M26;
+scaffold_73	tblastx	match_part	14037	14111	93	+	.	ID=scaffold_73:hsp:464806;Parent=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;Target=gi|6432758|gb|AJ273386.1|AJ273386 44 118 +;Gap=M25;
+scaffold_73	tblastx	match_part	14038	14133	125	+	.	ID=scaffold_73:hsp:464807;Parent=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;Target=gi|6432758|gb|AJ273386.1|AJ273386 45 140 +;Gap=M32;
+scaffold_73	tblastx	match_part	14112	14453	429	+	.	ID=scaffold_73:hsp:464808;Parent=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;Target=gi|6432758|gb|AJ273386.1|AJ273386 120 461 +;Gap=M114;
+scaffold_73	tblastx	match_part	14113	14454	477	+	.	ID=scaffold_73:hsp:464809;Parent=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;Target=gi|6432758|gb|AJ273386.1|AJ273386 121 462 +;Gap=M114;
+scaffold_73	tblastx	match_part	14240	14455	322	+	.	ID=scaffold_73:hsp:464810;Parent=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;Target=gi|6432758|gb|AJ273386.1|AJ273386 248 463 +;Gap=M72;
+scaffold_73	tblastx	match_part	14450	14578	148	+	.	ID=scaffold_73:hsp:464811;Parent=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;Target=gi|6432758|gb|AJ273386.1|AJ273386 459 587 +;Gap=M43;
+scaffold_73	tblastx	match_part	14457	14579	159	+	.	ID=scaffold_73:hsp:464812;Parent=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;Target=gi|6432758|gb|AJ273386.1|AJ273386 466 588 +;Gap=M41;
+scaffold_73	tblastx	match_part	14458	14580	154	+	.	ID=scaffold_73:hsp:464813;Parent=scaffold_73:hit:204603;Name=gi|6432758|gb|AJ273386.1|AJ273386;Target=gi|6432758|gb|AJ273386.1|AJ273386 467 589 +;Gap=M41;
+scaffold_73	tblastx	translated_nucleotide_match	13912	14519	89	+	.	ID=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;
+scaffold_73	tblastx	match_part	13912	13968	89	+	.	ID=scaffold_73:hsp:464814;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 3 59 +;Gap=M19;
+scaffold_73	tblastx	match_part	13919	14005	130	+	.	ID=scaffold_73:hsp:464815;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 10 96 +;Gap=M29;
+scaffold_73	tblastx	match_part	13926	13988	103	+	.	ID=scaffold_73:hsp:464816;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 17 79 +;Gap=M21;
+scaffold_73	tblastx	match_part	14033	14110	100	+	.	ID=scaffold_73:hsp:464817;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 90 167 +;Gap=M26;
+scaffold_73	tblastx	match_part	14037	14111	93	+	.	ID=scaffold_73:hsp:464818;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 94 168 +;Gap=M25;
+scaffold_73	tblastx	match_part	14038	14133	125	+	.	ID=scaffold_73:hsp:464819;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 95 190 +;Gap=M32;
+scaffold_73	tblastx	match_part	14112	14450	425	+	.	ID=scaffold_73:hsp:464820;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 170 508 +;Gap=M113;
+scaffold_73	tblastx	match_part	14113	14448	467	+	.	ID=scaffold_73:hsp:464821;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 171 506 +;Gap=M112;
+scaffold_73	tblastx	match_part	14240	14455	316	+	.	ID=scaffold_73:hsp:464822;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 298 513 +;Gap=M72;
+scaffold_73	tblastx	match_part	14452	14517	94	+	.	ID=scaffold_73:hsp:464823;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 509 574 +;Gap=M22;
+scaffold_73	tblastx	match_part	14453	14518	99	+	.	ID=scaffold_73:hsp:464824;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 510 575 +;Gap=M22;
+scaffold_73	tblastx	match_part	14457	14519	102	+	.	ID=scaffold_73:hsp:464825;Parent=scaffold_73:hit:204604;Name=gi|6433419|gb|AJ274046.1|AJ274046;Target=gi|6433419|gb|AJ274046.1|AJ274046 514 576 +;Gap=M21;
+scaffold_73	tblastx	translated_nucleotide_match	1601	2339	270	-	.	ID=scaffold_73:hit:204605;Name=Locus_2347_Transcript_1%2F1_Confidence_1.000;
+scaffold_73	tblastx	match_part	2193	2339	249	-	.	ID=scaffold_73:hsp:464826;Parent=scaffold_73:hit:204605;Name=Locus_2347_Transcript_1%252F1_Confidence_1.000;Target=Locus_2347_Transcript_1%252F1_Confidence_1.000 1 147 +;Gap=M49;
+scaffold_73	tblastx	match_part	1936	2337	575	-	.	ID=scaffold_73:hsp:464827;Parent=scaffold_73:hit:204605;Name=Locus_2347_Transcript_1%252F1_Confidence_1.000;Target=Locus_2347_Transcript_1%252F1_Confidence_1.000 3 404 +;Gap=M134;
+scaffold_73	tblastx	match_part	1943	2317	490	-	.	ID=scaffold_73:hsp:464828;Parent=scaffold_73:hit:204605;Name=Locus_2347_Transcript_1%252F1_Confidence_1.000;Target=Locus_2347_Transcript_1%252F1_Confidence_1.000 23 397 +;Gap=M125;
+scaffold_73	tblastx	match_part	1833	2138	492	-	.	ID=scaffold_73:hsp:464829;Parent=scaffold_73:hit:204605;Name=Locus_2347_Transcript_1%252F1_Confidence_1.000;Target=Locus_2347_Transcript_1%252F1_Confidence_1.000 202 507 +;Gap=M102;
+scaffold_73	tblastx	match_part	1657	1881	362	-	.	ID=scaffold_73:hsp:464830;Parent=scaffold_73:hit:204605;Name=Locus_2347_Transcript_1%252F1_Confidence_1.000;Target=Locus_2347_Transcript_1%252F1_Confidence_1.000 459 683 +;Gap=M75;
+scaffold_73	tblastx	match_part	1601	1756	270	-	.	ID=scaffold_73:hsp:464831;Parent=scaffold_73:hit:204605;Name=Locus_2347_Transcript_1%252F1_Confidence_1.000;Target=Locus_2347_Transcript_1%252F1_Confidence_1.000 584 739 +;Gap=M52;
+scaffold_73	tblastx	translated_nucleotide_match	14766	15454	272	-	.	ID=scaffold_73:hit:204606;Name=CB901373;
+scaffold_73	tblastx	match_part	14945	15454	771	-	.	ID=scaffold_73:hsp:464832;Parent=scaffold_73:hit:204606;Name=CB901373;Target=CB901373 76 585 +;Gap=M170;
+scaffold_73	tblastx	match_part	14932	15453	791	-	.	ID=scaffold_73:hsp:464833;Parent=scaffold_73:hit:204606;Name=CB901373;Target=CB901373 77 598 +;Gap=M174;
+scaffold_73	tblastx	match_part	15096	15452	547	-	.	ID=scaffold_73:hsp:464834;Parent=scaffold_73:hit:204606;Name=CB901373;Target=CB901373 78 434 +;Gap=M119;
+scaffold_73	tblastx	match_part	14940	15059	139	-	.	ID=scaffold_73:hsp:464835;Parent=scaffold_73:hit:204606;Name=CB901373;Target=CB901373 471 590 +;Gap=M40;
+scaffold_73	tblastx	match_part	14770	14934	287	-	.	ID=scaffold_73:hsp:464836;Parent=scaffold_73:hit:204606;Name=CB901373;Target=CB901373 598 762 +;Gap=M55;
+scaffold_73	tblastx	match_part	14766	14933	272	-	.	ID=scaffold_73:hsp:464837;Parent=scaffold_73:hit:204606;Name=CB901373;Target=CB901373 599 766 +;Gap=M56;
+scaffold_73	tblastx	match_part	14771	14920	245	-	.	ID=scaffold_73:hsp:464838;Parent=scaffold_73:hit:204606;Name=CB901373;Target=CB901373 612 761 +;Gap=M50;
+scaffold_73	tblastx	translated_nucleotide_match	14846	15454	111	-	.	ID=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;
+scaffold_73	tblastx	match_part	15347	15454	134	-	.	ID=scaffold_73:hsp:464839;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 7 114 +;Gap=M36;
+scaffold_73	tblastx	match_part	15373	15453	133	-	.	ID=scaffold_73:hsp:464840;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 8 88 +;Gap=M27;
+scaffold_73	tblastx	match_part	15372	15452	140	-	.	ID=scaffold_73:hsp:464841;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 9 89 +;Gap=M27;
+scaffold_73	tblastx	match_part	15058	15369	487	-	.	ID=scaffold_73:hsp:464842;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 90 401 +;Gap=M104;
+scaffold_73	tblastx	match_part	15096	15365	400	-	.	ID=scaffold_73:hsp:464843;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 94 363 +;Gap=M90;
+scaffold_73	tblastx	match_part	15056	15364	462	-	.	ID=scaffold_73:hsp:464844;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 95 403 +;Gap=M103;
+scaffold_73	tblastx	match_part	14945	15025	135	-	.	ID=scaffold_73:hsp:464845;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 432 512 +;Gap=M27;
+scaffold_73	tblastx	match_part	14941	15024	134	-	.	ID=scaffold_73:hsp:464846;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 433 516 +;Gap=M28;
+scaffold_73	tblastx	match_part	14943	15014	137	-	.	ID=scaffold_73:hsp:464847;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 443 514 +;Gap=M24;
+scaffold_73	tblastx	match_part	14848	14934	149	-	.	ID=scaffold_73:hsp:464848;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 521 607 +;Gap=M29;
+scaffold_73	tblastx	match_part	14847	14933	123	-	.	ID=scaffold_73:hsp:464849;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 522 608 +;Gap=M29;
+scaffold_73	tblastx	match_part	14846	14920	111	-	.	ID=scaffold_73:hsp:464850;Parent=scaffold_73:hit:204607;Name=gi|6432779|gb|AJ273407.1|AJ273407;Target=gi|6432779|gb|AJ273407.1|AJ273407 535 609 +;Gap=M25;
+scaffold_73	tblastx	translated_nucleotide_match	18625	18868	326	+	.	ID=scaffold_73:hit:204608;Name=gi|195947264|gb|FC809245.1|FC809245;
+scaffold_73	tblastx	match_part	18625	18867	326	+	.	ID=scaffold_73:hsp:464851;Parent=scaffold_73:hit:204608;Name=gi|195947264|gb|FC809245.1|FC809245;Target=gi|195947264|gb|FC809245.1|FC809245 52 294 +;Gap=M81;
+scaffold_73	tblastx	match_part	18648	18866	256	+	.	ID=scaffold_73:hsp:464852;Parent=scaffold_73:hit:204608;Name=gi|195947264|gb|FC809245.1|FC809245;Target=gi|195947264|gb|FC809245.1|FC809245 75 293 +;Gap=M73;
+scaffold_73	tblastx	match_part	18650	18868	331	+	.	ID=scaffold_73:hsp:464853;Parent=scaffold_73:hit:204608;Name=gi|195947264|gb|FC809245.1|FC809245;Target=gi|195947264|gb|FC809245.1|FC809245 77 295 +;Gap=M73;
+scaffold_73	tblastx	translated_nucleotide_match	13915	14301	84	+	.	ID=scaffold_73:hit:204609;Name=gi|239510481|gb|GR224315.1|GR224315;
+scaffold_73	tblastx	match_part	13915	13968	84	+	.	ID=scaffold_73:hsp:464854;Parent=scaffold_73:hit:204609;Name=gi|239510481|gb|GR224315.1|GR224315;Target=gi|239510481|gb|GR224315.1|GR224315 6 59 +;Gap=M18;
+scaffold_73	tblastx	match_part	13919	13984	105	+	.	ID=scaffold_73:hsp:464855;Parent=scaffold_73:hit:204609;Name=gi|239510481|gb|GR224315.1|GR224315;Target=gi|239510481|gb|GR224315.1|GR224315 10 75 +;Gap=M22;
+scaffold_73	tblastx	match_part	13926	13985	84	+	.	ID=scaffold_73:hsp:464856;Parent=scaffold_73:hit:204609;Name=gi|239510481|gb|GR224315.1|GR224315;Target=gi|239510481|gb|GR224315.1|GR224315 17 76 +;Gap=M20;
+scaffold_73	tblastx	match_part	14026	14196	153	+	.	ID=scaffold_73:hsp:464857;Parent=scaffold_73:hit:204609;Name=gi|239510481|gb|GR224315.1|GR224315;Target=gi|239510481|gb|GR224315.1|GR224315 99 269 +;Gap=M57;
+scaffold_73	tblastx	match_part	14028	14195	149	+	.	ID=scaffold_73:hsp:464858;Parent=scaffold_73:hit:204609;Name=gi|239510481|gb|GR224315.1|GR224315;Target=gi|239510481|gb|GR224315.1|GR224315 101 268 +;Gap=M56;
+scaffold_73	tblastx	match_part	14039	14101	82	+	.	ID=scaffold_73:hsp:464859;Parent=scaffold_73:hit:204609;Name=gi|239510481|gb|GR224315.1|GR224315;Target=gi|239510481|gb|GR224315.1|GR224315 112 174 +;Gap=M21;
+scaffold_73	tblastx	match_part	14199	14300	116	+	.	ID=scaffold_73:hsp:464860;Parent=scaffold_73:hit:204609;Name=gi|239510481|gb|GR224315.1|GR224315;Target=gi|239510481|gb|GR224315.1|GR224315 271 372 +;Gap=M34;
+scaffold_73	tblastx	match_part	14200	14301	138	+	.	ID=scaffold_73:hsp:464861;Parent=scaffold_73:hit:204609;Name=gi|239510481|gb|GR224315.1|GR224315;Target=gi|239510481|gb|GR224315.1|GR224315 272 373 +;Gap=M34;
+scaffold_73	tblastx	translated_nucleotide_match	8963	11311	165	-	.	ID=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%2F1_Confidence_1.000;
+scaffold_73	tblastx	match_part	11123	11311	270	-	.	ID=scaffold_73:hsp:464862;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 2 190 +;Gap=M63;
+scaffold_73	tblastx	match_part	11146	11310	285	-	.	ID=scaffold_73:hsp:464863;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 3 167 +;Gap=M55;
+scaffold_73	tblastx	match_part	11073	11270	227	-	.	ID=scaffold_73:hsp:464864;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 43 240 +;Gap=M66;
+scaffold_73	tblastx	match_part	10720	11094	496	-	.	ID=scaffold_73:hsp:464865;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 219 593 +;Gap=M125;
+scaffold_73	tblastx	match_part	10793	11083	440	-	.	ID=scaffold_73:hsp:464866;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 230 520 +;Gap=M97;
+scaffold_73	tblastx	match_part	10974	11036	105	-	.	ID=scaffold_73:hsp:464867;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 277 339 +;Gap=M21;
+scaffold_73	tblastx	match_part	10630	10722	132	-	.	ID=scaffold_73:hsp:464868;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 590 682 +;Gap=M31;
+scaffold_73	tblastx	match_part	10557	10682	136	-	.	ID=scaffold_73:hsp:464869;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 630 755 +;Gap=M42;
+scaffold_73	tblastx	match_part	10504	10593	152	-	.	ID=scaffold_73:hsp:464870;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 719 808 +;Gap=M30;
+scaffold_73	tblastx	match_part	10419	10514	149	-	.	ID=scaffold_73:hsp:464871;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 798 893 +;Gap=M32;
+scaffold_73	tblastx	match_part	10249	10458	299	-	.	ID=scaffold_73:hsp:464872;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 854 1063 +;Gap=M70;
+scaffold_73	tblastx	match_part	10016	10381	348	-	.	ID=scaffold_73:hsp:464873;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 931 1296 +;Gap=M122;
+scaffold_73	tblastx	match_part	9471	10322	1321	-	.	ID=scaffold_73:hsp:464874;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 990 1841 +;Gap=M284;
+scaffold_73	tblastx	match_part	10114	10215	131	-	.	ID=scaffold_73:hsp:464875;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 1097 1198 +;Gap=M34;
+scaffold_73	tblastx	match_part	9880	10053	265	-	.	ID=scaffold_73:hsp:464876;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 1259 1432 +;Gap=M58;
+scaffold_73	tblastx	match_part	9818	9943	160	-	.	ID=scaffold_73:hsp:464877;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 1369 1494 +;Gap=M42;
+scaffold_73	tblastx	match_part	9673	9825	178	-	.	ID=scaffold_73:hsp:464878;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 1487 1639 +;Gap=M51;
+scaffold_73	tblastx	match_part	9578	9745	202	-	.	ID=scaffold_73:hsp:464879;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 1567 1734 +;Gap=M56;
+scaffold_73	tblastx	match_part	9367	9630	327	-	.	ID=scaffold_73:hsp:464880;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 1682 1945 +;Gap=M88;
+scaffold_73	tblastx	match_part	9368	9505	176	-	.	ID=scaffold_73:hsp:464881;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 1807 1944 +;Gap=M46;
+scaffold_73	tblastx	match_part	9207	9353	246	-	.	ID=scaffold_73:hsp:464882;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 1959 2105 +;Gap=M49;
+scaffold_73	tblastx	match_part	9203	9265	113	-	.	ID=scaffold_73:hsp:464883;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 2047 2109 +;Gap=M21;
+scaffold_73	tblastx	match_part	9148	9264	177	-	.	ID=scaffold_73:hsp:464884;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 2048 2164 +;Gap=M39;
+scaffold_73	tblastx	match_part	8964	9167	325	-	.	ID=scaffold_73:hsp:464885;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 2145 2348 +;Gap=M68;
+scaffold_73	tblastx	match_part	8963	9097	165	-	.	ID=scaffold_73:hsp:464886;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 2215 2349 +;Gap=M45;
+scaffold_73	tblastx	match_part	9025	9087	102	-	.	ID=scaffold_73:hsp:464887;Parent=scaffold_73:hit:204610;Name=Locus_569_Transcript_1%252F1_Confidence_1.000;Target=Locus_569_Transcript_1%252F1_Confidence_1.000 2225 2287 +;Gap=M21;
+scaffold_73	tblastx	translated_nucleotide_match	14449	15153	438	+	.	ID=scaffold_73:hit:204611;Name=CB896427;
+scaffold_73	tblastx	match_part	14449	14748	438	+	.	ID=scaffold_73:hsp:464888;Parent=scaffold_73:hit:204611;Name=CB896427;Target=CB896427 70 369 +;Gap=M100;
+scaffold_73	tblastx	match_part	14450	14758	440	+	.	ID=scaffold_73:hsp:464889;Parent=scaffold_73:hit:204611;Name=CB896427;Target=CB896427 71 379 +;Gap=M103;
+scaffold_73	tblastx	match_part	14451	14750	456	+	.	ID=scaffold_73:hsp:464890;Parent=scaffold_73:hit:204611;Name=CB896427;Target=CB896427 72 371 +;Gap=M100;
+scaffold_73	tblastx	match_part	14750	14968	261	+	.	ID=scaffold_73:hsp:464891;Parent=scaffold_73:hit:204611;Name=CB896427;Target=CB896427 363 581 +;Gap=M73;
+scaffold_73	tblastx	match_part	14754	14942	296	+	.	ID=scaffold_73:hsp:464892;Parent=scaffold_73:hit:204611;Name=CB896427;Target=CB896427 367 555 +;Gap=M63;
+scaffold_73	tblastx	match_part	14764	14934	281	+	.	ID=scaffold_73:hsp:464893;Parent=scaffold_73:hit:204611;Name=CB896427;Target=CB896427 377 547 +;Gap=M57;
+scaffold_73	tblastx	match_part	14932	15153	296	+	.	ID=scaffold_73:hsp:464894;Parent=scaffold_73:hit:204611;Name=CB896427;Target=CB896427 547 768 +;Gap=M74;
+scaffold_73	tblastx	match_part	14939	15148	309	+	.	ID=scaffold_73:hsp:464895;Parent=scaffold_73:hit:204611;Name=CB896427;Target=CB896427 554 763 +;Gap=M70;
+scaffold_73	tblastx	match_part	14940	15152	348	+	.	ID=scaffold_73:hsp:464896;Parent=scaffold_73:hit:204611;Name=CB896427;Target=CB896427 555 767 +;Gap=M71;
+scaffold_73	tblastx	translated_nucleotide_match	13893	14206	198	-	.	ID=scaffold_73:hit:204612;Name=Locus_138_Transcript_1%2F2_Confidence_1.000;
+scaffold_73	tblastx	match_part	14111	14206	149	-	.	ID=scaffold_73:hsp:464897;Parent=scaffold_73:hit:204612;Name=Locus_138_Transcript_1%252F2_Confidence_1.000;Target=Locus_138_Transcript_1%252F2_Confidence_1.000 2 97 +;Gap=M32;
+scaffold_73	tblastx	match_part	14122	14205	131	-	.	ID=scaffold_73:hsp:464898;Parent=scaffold_73:hit:204612;Name=Locus_138_Transcript_1%252F2_Confidence_1.000;Target=Locus_138_Transcript_1%252F2_Confidence_1.000 3 86 +;Gap=M28;
+scaffold_73	tblastx	match_part	14023	14127	141	-	.	ID=scaffold_73:hsp:464899;Parent=scaffold_73:hit:204612;Name=Locus_138_Transcript_1%252F2_Confidence_1.000;Target=Locus_138_Transcript_1%252F2_Confidence_1.000 83 187 +;Gap=M35;
+scaffold_73	tblastx	match_part	14025	14126	149	-	.	ID=scaffold_73:hsp:464900;Parent=scaffold_73:hit:204612;Name=Locus_138_Transcript_1%252F2_Confidence_1.000;Target=Locus_138_Transcript_1%252F2_Confidence_1.000 84 185 +;Gap=M34;
+scaffold_73	tblastx	match_part	13893	14045	198	-	.	ID=scaffold_73:hsp:464901;Parent=scaffold_73:hit:204612;Name=Locus_138_Transcript_1%252F2_Confidence_1.000;Target=Locus_138_Transcript_1%252F2_Confidence_1.000 166 318 +;Gap=M51;
+scaffold_73	tblastx	match_part	13909	14022	163	-	.	ID=scaffold_73:hsp:464902;Parent=scaffold_73:hit:204612;Name=Locus_138_Transcript_1%252F2_Confidence_1.000;Target=Locus_138_Transcript_1%252F2_Confidence_1.000 189 302 +;Gap=M38;
+scaffold_73	tblastx	match_part	13910	14020	177	-	.	ID=scaffold_73:hsp:464903;Parent=scaffold_73:hit:204612;Name=Locus_138_Transcript_1%252F2_Confidence_1.000;Target=Locus_138_Transcript_1%252F2_Confidence_1.000 191 301 +;Gap=M37;
+scaffold_73	tblastx	translated_nucleotide_match	13915	14341	84	+	.	ID=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;
+scaffold_73	tblastx	match_part	13915	13968	84	+	.	ID=scaffold_73:hsp:464904;Parent=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;Target=gi|239510442|gb|GR224276.1|GR224276 11 64 +;Gap=M18;
+scaffold_73	tblastx	match_part	13919	13984	105	+	.	ID=scaffold_73:hsp:464905;Parent=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;Target=gi|239510442|gb|GR224276.1|GR224276 15 80 +;Gap=M22;
+scaffold_73	tblastx	match_part	13926	13985	84	+	.	ID=scaffold_73:hsp:464906;Parent=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;Target=gi|239510442|gb|GR224276.1|GR224276 22 81 +;Gap=M20;
+scaffold_73	tblastx	match_part	14026	14196	153	+	.	ID=scaffold_73:hsp:464907;Parent=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;Target=gi|239510442|gb|GR224276.1|GR224276 104 274 +;Gap=M57;
+scaffold_73	tblastx	match_part	14028	14195	149	+	.	ID=scaffold_73:hsp:464908;Parent=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;Target=gi|239510442|gb|GR224276.1|GR224276 106 273 +;Gap=M56;
+scaffold_73	tblastx	match_part	14039	14101	82	+	.	ID=scaffold_73:hsp:464909;Parent=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;Target=gi|239510442|gb|GR224276.1|GR224276 117 179 +;Gap=M21;
+scaffold_73	tblastx	match_part	14199	14327	190	+	.	ID=scaffold_73:hsp:464910;Parent=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;Target=gi|239510442|gb|GR224276.1|GR224276 276 404 +;Gap=M43;
+scaffold_73	tblastx	match_part	14200	14328	212	+	.	ID=scaffold_73:hsp:464911;Parent=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;Target=gi|239510442|gb|GR224276.1|GR224276 277 405 +;Gap=M43;
+scaffold_73	tblastx	match_part	14240	14341	151	+	.	ID=scaffold_73:hsp:464912;Parent=scaffold_73:hit:204613;Name=gi|239510442|gb|GR224276.1|GR224276;Target=gi|239510442|gb|GR224276.1|GR224276 317 418 +;Gap=M34;
+scaffold_73	tblastx	translated_nucleotide_match	13912	14636	94	+	.	ID=scaffold_73:hit:204614;Name=CB901395;
+scaffold_73	tblastx	match_part	13912	13968	94	+	.	ID=scaffold_73:hsp:464913;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 70 126 +;Gap=M19;
+scaffold_73	tblastx	match_part	13919	13987	117	+	.	ID=scaffold_73:hsp:464914;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 77 145 +;Gap=M23;
+scaffold_73	tblastx	match_part	13926	14012	103	+	.	ID=scaffold_73:hsp:464915;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 84 170 +;Gap=M29;
+scaffold_73	tblastx	match_part	14037	14111	86	+	.	ID=scaffold_73:hsp:464916;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 150 224 +;Gap=M25;
+scaffold_73	tblastx	match_part	14038	14121	115	+	.	ID=scaffold_73:hsp:464917;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 151 234 +;Gap=M28;
+scaffold_73	tblastx	match_part	14039	14113	86	+	.	ID=scaffold_73:hsp:464918;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 152 226 +;Gap=M25;
+scaffold_73	tblastx	match_part	14125	14631	753	+	.	ID=scaffold_73:hsp:464919;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 242 748 +;Gap=M169;
+scaffold_73	tblastx	match_part	14126	14182	84	+	.	ID=scaffold_73:hsp:464920;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 243 299 +;Gap=M19;
+scaffold_73	tblastx	match_part	14127	14636	727	+	.	ID=scaffold_73:hsp:464921;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 244 753 +;Gap=M170;
+scaffold_73	tblastx	match_part	14240	14632	598	+	.	ID=scaffold_73:hsp:464922;Parent=scaffold_73:hit:204614;Name=CB901395;Target=CB901395 357 749 +;Gap=M131;
+scaffold_73	tblastx	translated_nucleotide_match	16295	16676	553	-	.	ID=scaffold_73:hit:204615;Name=Locus_1142_Transcript_1%2F1_Confidence_1.000;
+scaffold_73	tblastx	match_part	16452	16676	280	-	.	ID=scaffold_73:hsp:464923;Parent=scaffold_73:hit:204615;Name=Locus_1142_Transcript_1%252F1_Confidence_1.000;Target=Locus_1142_Transcript_1%252F1_Confidence_1.000 1 225 +;Gap=M75;
+scaffold_73	tblastx	match_part	16295	16675	553	-	.	ID=scaffold_73:hsp:464924;Parent=scaffold_73:hit:204615;Name=Locus_1142_Transcript_1%252F1_Confidence_1.000;Target=Locus_1142_Transcript_1%252F1_Confidence_1.000 2 382 +;Gap=M127;
+scaffold_73	tblastx	match_part	16534	16674	227	-	.	ID=scaffold_73:hsp:464925;Parent=scaffold_73:hit:204615;Name=Locus_1142_Transcript_1%252F1_Confidence_1.000;Target=Locus_1142_Transcript_1%252F1_Confidence_1.000 3 143 +;Gap=M47;
+scaffold_73	tblastx	match_part	16297	16395	146	-	.	ID=scaffold_73:hsp:464926;Parent=scaffold_73:hit:204615;Name=Locus_1142_Transcript_1%252F1_Confidence_1.000;Target=Locus_1142_Transcript_1%252F1_Confidence_1.000 282 380 +;Gap=M33;
+scaffold_73	tblastx	translated_nucleotide_match	16019	16324	257	+	.	ID=scaffold_73:hit:204616;Name=Locus_1652_Transcript_1%2F1_Confidence_1.000;
+scaffold_73	tblastx	match_part	16019	16180	257	+	.	ID=scaffold_73:hsp:464927;Parent=scaffold_73:hit:204616;Name=Locus_1652_Transcript_1%252F1_Confidence_1.000;Target=Locus_1652_Transcript_1%252F1_Confidence_1.000 3 164 +;Gap=M54;
+scaffold_73	tblastx	match_part	16021	16089	112	+	.	ID=scaffold_73:hsp:464928;Parent=scaffold_73:hit:204616;Name=Locus_1652_Transcript_1%252F1_Confidence_1.000;Target=Locus_1652_Transcript_1%252F1_Confidence_1.000 5 73 +;Gap=M23;
+scaffold_73	tblastx	match_part	16132	16323	299	+	.	ID=scaffold_73:hsp:464929;Parent=scaffold_73:hit:204616;Name=Locus_1652_Transcript_1%252F1_Confidence_1.000;Target=Locus_1652_Transcript_1%252F1_Confidence_1.000 116 307 +;Gap=M64;
+scaffold_73	tblastx	match_part	16226	16324	166	+	.	ID=scaffold_73:hsp:464930;Parent=scaffold_73:hit:204616;Name=Locus_1652_Transcript_1%252F1_Confidence_1.000;Target=Locus_1652_Transcript_1%252F1_Confidence_1.000 210 308 +;Gap=M33;
+scaffold_73	tblastx	translated_nucleotide_match	20625	20960	125	+	.	ID=scaffold_73:hit:204617;Name=Locus_849_Transcript_2%2F2_Confidence_1.000;
+scaffold_73	tblastx	match_part	20625	20714	125	+	.	ID=scaffold_73:hsp:464931;Parent=scaffold_73:hit:204617;Name=Locus_849_Transcript_2%252F2_Confidence_1.000;Target=Locus_849_Transcript_2%252F2_Confidence_1.000 1 90 +;Gap=M30;
+scaffold_73	tblastx	match_part	20626	20724	138	+	.	ID=scaffold_73:hsp:464932;Parent=scaffold_73:hit:204617;Name=Locus_849_Transcript_2%252F2_Confidence_1.000;Target=Locus_849_Transcript_2%252F2_Confidence_1.000 2 100 +;Gap=M33;
+scaffold_73	tblastx	match_part	20627	20857	263	+	.	ID=scaffold_73:hsp:464933;Parent=scaffold_73:hit:204617;Name=Locus_849_Transcript_2%252F2_Confidence_1.000;Target=Locus_849_Transcript_2%252F2_Confidence_1.000 3 233 +;Gap=M77;
+scaffold_73	tblastx	match_part	20758	20910	241	+	.	ID=scaffold_73:hsp:464934;Parent=scaffold_73:hit:204617;Name=Locus_849_Transcript_2%252F2_Confidence_1.000;Target=Locus_849_Transcript_2%252F2_Confidence_1.000 134 286 +;Gap=M51;
+scaffold_73	tblastx	match_part	20850	20960	172	+	.	ID=scaffold_73:hsp:464935;Parent=scaffold_73:hit:204617;Name=Locus_849_Transcript_2%252F2_Confidence_1.000;Target=Locus_849_Transcript_2%252F2_Confidence_1.000 226 336 +;Gap=M37;
+scaffold_73	tblastx	match_part	20900	20959	85	+	.	ID=scaffold_73:hsp:464936;Parent=scaffold_73:hit:204617;Name=Locus_849_Transcript_2%252F2_Confidence_1.000;Target=Locus_849_Transcript_2%252F2_Confidence_1.000 276 335 +;Gap=M20;
+scaffold_73	tblastx	translated_nucleotide_match	13893	14127	198	-	.	ID=scaffold_73:hit:204618;Name=Locus_138_Transcript_2%2F2_Confidence_1.000;
+scaffold_73	tblastx	match_part	14023	14127	141	-	.	ID=scaffold_73:hsp:464937;Parent=scaffold_73:hit:204618;Name=Locus_138_Transcript_2%252F2_Confidence_1.000;Target=Locus_138_Transcript_2%252F2_Confidence_1.000 7 111 +;Gap=M35;
+scaffold_73	tblastx	match_part	14025	14126	149	-	.	ID=scaffold_73:hsp:464938;Parent=scaffold_73:hit:204618;Name=Locus_138_Transcript_2%252F2_Confidence_1.000;Target=Locus_138_Transcript_2%252F2_Confidence_1.000 8 109 +;Gap=M34;
+scaffold_73	tblastx	match_part	13893	14045	198	-	.	ID=scaffold_73:hsp:464939;Parent=scaffold_73:hit:204618;Name=Locus_138_Transcript_2%252F2_Confidence_1.000;Target=Locus_138_Transcript_2%252F2_Confidence_1.000 90 242 +;Gap=M51;
+scaffold_73	tblastx	match_part	13909	14022	163	-	.	ID=scaffold_73:hsp:464940;Parent=scaffold_73:hit:204618;Name=Locus_138_Transcript_2%252F2_Confidence_1.000;Target=Locus_138_Transcript_2%252F2_Confidence_1.000 113 226 +;Gap=M38;
+scaffold_73	tblastx	match_part	13910	14020	177	-	.	ID=scaffold_73:hsp:464941;Parent=scaffold_73:hit:204618;Name=Locus_138_Transcript_2%252F2_Confidence_1.000;Target=Locus_138_Transcript_2%252F2_Confidence_1.000 115 225 +;Gap=M37;
+scaffold_73	tblastx	translated_nucleotide_match	18343	19022	133	+	.	ID=scaffold_73:hit:204619;Name=CB902286;
+scaffold_73	tblastx	match_part	18343	18474	133	+	.	ID=scaffold_73:hsp:464942;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 94 225 +;Gap=M44;
+scaffold_73	tblastx	match_part	18347	18469	148	+	.	ID=scaffold_73:hsp:464943;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 98 220 +;Gap=M41;
+scaffold_73	tblastx	match_part	18470	18553	124	+	.	ID=scaffold_73:hsp:464944;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 220 303 +;Gap=M28;
+scaffold_73	tblastx	match_part	18471	18551	126	+	.	ID=scaffold_73:hsp:464945;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 221 301 +;Gap=M27;
+scaffold_73	tblastx	match_part	18472	18924	619	+	.	ID=scaffold_73:hsp:464946;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 222 674 +;Gap=M151;
+scaffold_73	tblastx	match_part	18594	18896	380	+	.	ID=scaffold_73:hsp:464947;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 344 646 +;Gap=M101;
+scaffold_73	tblastx	match_part	18596	18892	434	+	.	ID=scaffold_73:hsp:464948;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 346 642 +;Gap=M99;
+scaffold_73	tblastx	match_part	18899	19018	178	+	.	ID=scaffold_73:hsp:464949;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 650 769 +;Gap=M40;
+scaffold_73	tblastx	match_part	18903	19022	166	+	.	ID=scaffold_73:hsp:464950;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 654 773 +;Gap=M40;
+scaffold_73	tblastx	match_part	18904	19020	180	+	.	ID=scaffold_73:hsp:464951;Parent=scaffold_73:hit:204619;Name=CB902286;Target=CB902286 655 771 +;Gap=M39;
+scaffold_73	tblastx	translated_nucleotide_match	14848	15454	151	-	.	ID=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;
+scaffold_73	tblastx	match_part	15347	15454	134	-	.	ID=scaffold_73:hsp:464952;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 14 121 +;Gap=M36;
+scaffold_73	tblastx	match_part	15373	15453	133	-	.	ID=scaffold_73:hsp:464953;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 15 95 +;Gap=M27;
+scaffold_73	tblastx	match_part	15372	15452	140	-	.	ID=scaffold_73:hsp:464954;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 16 96 +;Gap=M27;
+scaffold_73	tblastx	match_part	15058	15369	487	-	.	ID=scaffold_73:hsp:464955;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 97 408 +;Gap=M104;
+scaffold_73	tblastx	match_part	15096	15365	400	-	.	ID=scaffold_73:hsp:464956;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 101 370 +;Gap=M90;
+scaffold_73	tblastx	match_part	15056	15364	462	-	.	ID=scaffold_73:hsp:464957;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 102 410 +;Gap=M103;
+scaffold_73	tblastx	match_part	14963	15073	146	-	.	ID=scaffold_73:hsp:464958;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 392 502 +;Gap=M37;
+scaffold_73	tblastx	match_part	14956	15069	138	-	.	ID=scaffold_73:hsp:464959;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 396 509 +;Gap=M38;
+scaffold_73	tblastx	match_part	14961	15014	97	-	.	ID=scaffold_73:hsp:464960;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 451 504 +;Gap=M18;
+scaffold_73	tblastx	match_part	14848	14934	151	-	.	ID=scaffold_73:hsp:464961;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 530 616 +;Gap=M29;
+scaffold_73	tblastx	match_part	14850	14933	116	-	.	ID=scaffold_73:hsp:464962;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 531 614 +;Gap=M28;
+scaffold_73	tblastx	match_part	14849	14920	109	-	.	ID=scaffold_73:hsp:464963;Parent=scaffold_73:hit:204620;Name=gi|6432622|gb|AJ273250.1|AJ273250;Target=gi|6432622|gb|AJ273250.1|AJ273250 544 615 +;Gap=M24;
+scaffold_73	tblastx	translated_nucleotide_match	20159	20703	327	+	.	ID=scaffold_73:hit:204621;Name=Locus_1098_Transcript_1%2F2_Confidence_1.000;
+scaffold_73	tblastx	match_part	20159	20356	327	+	.	ID=scaffold_73:hsp:464964;Parent=scaffold_73:hit:204621;Name=Locus_1098_Transcript_1%252F2_Confidence_1.000;Target=Locus_1098_Transcript_1%252F2_Confidence_1.000 2 199 +;Gap=M66;
+scaffold_73	tblastx	match_part	20160	20354	290	+	.	ID=scaffold_73:hsp:464965;Parent=scaffold_73:hit:204621;Name=Locus_1098_Transcript_1%252F2_Confidence_1.000;Target=Locus_1098_Transcript_1%252F2_Confidence_1.000 3 197 +;Gap=M65;
+scaffold_73	tblastx	match_part	20230	20319	135	+	.	ID=scaffold_73:hsp:464966;Parent=scaffold_73:hit:204621;Name=Locus_1098_Transcript_1%252F2_Confidence_1.000;Target=Locus_1098_Transcript_1%252F2_Confidence_1.000 73 162 +;Gap=M30;
+scaffold_73	tblastx	match_part	20370	20510	189	+	.	ID=scaffold_73:hsp:464967;Parent=scaffold_73:hit:204621;Name=Locus_1098_Transcript_1%252F2_Confidence_1.000;Target=Locus_1098_Transcript_1%252F2_Confidence_1.000 202 342 +;Gap=M47;
+scaffold_73	tblastx	match_part	20431	20484	82	+	.	ID=scaffold_73:hsp:464968;Parent=scaffold_73:hit:204621;Name=Locus_1098_Transcript_1%252F2_Confidence_1.000;Target=Locus_1098_Transcript_1%252F2_Confidence_1.000 263 316 +;Gap=M18;
+scaffold_73	tblastx	match_part	20464	20703	347	+	.	ID=scaffold_73:hsp:464969;Parent=scaffold_73:hit:204621;Name=Locus_1098_Transcript_1%252F2_Confidence_1.000;Target=Locus_1098_Transcript_1%252F2_Confidence_1.000 297 536 +;Gap=M80;
+scaffold_73	tblastx	match_part	20468	20701	339	+	.	ID=scaffold_73:hsp:464970;Parent=scaffold_73:hit:204621;Name=Locus_1098_Transcript_1%252F2_Confidence_1.000;Target=Locus_1098_Transcript_1%252F2_Confidence_1.000 301 534 +;Gap=M78;
+scaffold_73	tblastx	match_part	20481	20702	346	+	.	ID=scaffold_73:hsp:464971;Parent=scaffold_73:hit:204621;Name=Locus_1098_Transcript_1%252F2_Confidence_1.000;Target=Locus_1098_Transcript_1%252F2_Confidence_1.000 314 535 +;Gap=M74;
+scaffold_73	tblastx	translated_nucleotide_match	13915	14667	84	+	.	ID=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;
+scaffold_73	tblastx	match_part	13915	13968	84	+	.	ID=scaffold_73:hsp:464972;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 5 58 +;Gap=M18;
+scaffold_73	tblastx	match_part	13919	13984	105	+	.	ID=scaffold_73:hsp:464973;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 9 74 +;Gap=M22;
+scaffold_73	tblastx	match_part	13926	13985	84	+	.	ID=scaffold_73:hsp:464974;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 16 75 +;Gap=M20;
+scaffold_73	tblastx	match_part	14026	14196	153	+	.	ID=scaffold_73:hsp:464975;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 98 268 +;Gap=M57;
+scaffold_73	tblastx	match_part	14028	14195	149	+	.	ID=scaffold_73:hsp:464976;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 100 267 +;Gap=M56;
+scaffold_73	tblastx	match_part	14039	14101	82	+	.	ID=scaffold_73:hsp:464977;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 111 173 +;Gap=M21;
+scaffold_73	tblastx	match_part	14199	14333	193	+	.	ID=scaffold_73:hsp:464978;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 270 404 +;Gap=M45;
+scaffold_73	tblastx	match_part	14200	14325	201	+	.	ID=scaffold_73:hsp:464979;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 271 396 +;Gap=M42;
+scaffold_73	tblastx	match_part	14240	14341	148	+	.	ID=scaffold_73:hsp:464980;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 311 412 +;Gap=M34;
+scaffold_73	tblastx	match_part	14367	14522	190	+	.	ID=scaffold_73:hsp:464981;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 467 622 +;Gap=M52;
+scaffold_73	tblastx	match_part	14369	14536	189	+	.	ID=scaffold_73:hsp:464982;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 469 636 +;Gap=M56;
+scaffold_73	tblastx	match_part	14371	14541	199	+	.	ID=scaffold_73:hsp:464983;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 471 641 +;Gap=M57;
+scaffold_73	tblastx	match_part	14547	14666	89	+	.	ID=scaffold_73:hsp:464984;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 628 747 +;Gap=M40;
+scaffold_73	tblastx	match_part	14548	14667	83	+	.	ID=scaffold_73:hsp:464985;Parent=scaffold_73:hit:204622;Name=gi|239510274|gb|GR224108.1|GR224108;Target=gi|239510274|gb|GR224108.1|GR224108 629 748 +;Gap=M40;
+scaffold_73	tblastx	translated_nucleotide_match	11233	11535	490	-	.	ID=scaffold_73:hit:204623;Name=Locus_2564_Transcript_1%2F1_Confidence_1.000;
+scaffold_73	tblastx	match_part	11233	11535	490	-	.	ID=scaffold_73:hsp:464986;Parent=scaffold_73:hit:204623;Name=Locus_2564_Transcript_1%252F1_Confidence_1.000;Target=Locus_2564_Transcript_1%252F1_Confidence_1.000 4 306 +;Gap=M101;
+scaffold_73	tblastx	match_part	11234	11533	329	-	.	ID=scaffold_73:hsp:464987;Parent=scaffold_73:hit:204623;Name=Locus_2564_Transcript_1%252F1_Confidence_1.000;Target=Locus_2564_Transcript_1%252F1_Confidence_1.000 6 305 +;Gap=M100;
+scaffold_73	tblastx	translated_nucleotide_match	14808	15454	214	-	.	ID=scaffold_73:hit:204624;Name=CB897137;
+scaffold_73	tblastx	match_part	15347	15454	136	-	.	ID=scaffold_73:hsp:464988;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 129 236 +;Gap=M36;
+scaffold_73	tblastx	match_part	15349	15453	171	-	.	ID=scaffold_73:hsp:464989;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 130 234 +;Gap=M35;
+scaffold_73	tblastx	match_part	15330	15452	163	-	.	ID=scaffold_73:hsp:464990;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 131 253 +;Gap=M41;
+scaffold_73	tblastx	match_part	14932	15366	634	-	.	ID=scaffold_73:hsp:464991;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 218 652 +;Gap=M145;
+scaffold_73	tblastx	match_part	15096	15353	402	-	.	ID=scaffold_73:hsp:464992;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 231 488 +;Gap=M86;
+scaffold_73	tblastx	match_part	14945	15352	647	-	.	ID=scaffold_73:hsp:464993;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 232 639 +;Gap=M136;
+scaffold_73	tblastx	match_part	14940	15059	139	-	.	ID=scaffold_73:hsp:464994;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 525 644 +;Gap=M40;
+scaffold_73	tblastx	match_part	14809	14934	227	-	.	ID=scaffold_73:hsp:464995;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 652 777 +;Gap=M42;
+scaffold_73	tblastx	match_part	14808	14933	214	-	.	ID=scaffold_73:hsp:464996;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 653 778 +;Gap=M42;
+scaffold_73	tblastx	match_part	14810	14920	186	-	.	ID=scaffold_73:hsp:464997;Parent=scaffold_73:hit:204624;Name=CB897137;Target=CB897137 666 776 +;Gap=M37;
+scaffold_73	tblastx	translated_nucleotide_match	13915	14538	84	+	.	ID=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;
+scaffold_73	tblastx	match_part	13915	13968	84	+	.	ID=scaffold_73:hsp:464998;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 6 59 +;Gap=M18;
+scaffold_73	tblastx	match_part	13919	13984	105	+	.	ID=scaffold_73:hsp:464999;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 10 75 +;Gap=M22;
+scaffold_73	tblastx	match_part	13926	13985	84	+	.	ID=scaffold_73:hsp:465000;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 17 76 +;Gap=M20;
+scaffold_73	tblastx	match_part	14026	14196	153	+	.	ID=scaffold_73:hsp:465001;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 99 269 +;Gap=M57;
+scaffold_73	tblastx	match_part	14028	14195	145	+	.	ID=scaffold_73:hsp:465002;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 101 268 +;Gap=M56;
+scaffold_73	tblastx	match_part	14199	14333	193	+	.	ID=scaffold_73:hsp:465003;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 271 405 +;Gap=M45;
+scaffold_73	tblastx	match_part	14200	14325	201	+	.	ID=scaffold_73:hsp:465004;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 272 397 +;Gap=M42;
+scaffold_73	tblastx	match_part	14240	14341	148	+	.	ID=scaffold_73:hsp:465005;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 312 413 +;Gap=M34;
+scaffold_73	tblastx	match_part	14367	14522	190	+	.	ID=scaffold_73:hsp:465006;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 467 622 +;Gap=M52;
+scaffold_73	tblastx	match_part	14369	14536	189	+	.	ID=scaffold_73:hsp:465007;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 469 636 +;Gap=M56;
+scaffold_73	tblastx	match_part	14371	14538	197	+	.	ID=scaffold_73:hsp:465008;Parent=scaffold_73:hit:204625;Name=gi|239510155|gb|GR225311.1|GR225311;Target=gi|239510155|gb|GR225311.1|GR225311 471 638 +;Gap=M56;
+scaffold_73	tblastx	translated_nucleotide_match	6005	6927	298	-	.	ID=scaffold_73:hit:204626;Name=Locus_1311_Transcript_1%2F1_Confidence_1.000;
+scaffold_73	tblastx	match_part	6703	6927	378	-	.	ID=scaffold_73:hsp:465009;Parent=scaffold_73:hit:204626;Name=Locus_1311_Transcript_1%252F1_Confidence_1.000;Target=Locus_1311_Transcript_1%252F1_Confidence_1.000 1 225 +;Gap=M75;
+scaffold_73	tblastx	match_part	6800	6925	186	-	.	ID=scaffold_73:hsp:465010;Parent=scaffold_73:hit:204626;Name=Locus_1311_Transcript_1%252F1_Confidence_1.000;Target=Locus_1311_Transcript_1%252F1_Confidence_1.000 3 128 +;Gap=M42;
+scaffold_73	tblastx	match_part	6777	6887	139	-	.	ID=scaffold_73:hsp:465011;Parent=scaffold_73:hit:204626;Name=Locus_1311_Transcript_1%252F1_Confidence_1.000;Target=Locus_1311_Transcript_1%252F1_Confidence_1.000 41 151 +;Gap=M37;
+scaffold_73	tblastx	match_part	6441	6725	359	-	.	ID=scaffold_73:hsp:465012;Parent=scaffold_73:hit:204626;Name=Locus_1311_Transcript_1%252F1_Confidence_1.000;Target=Locus_1311_Transcript_1%252F1_Confidence_1.000 203 487 +;Gap=M95;
+scaffold_73	tblastx	match_part	6275	6715	638	-	.	ID=scaffold_73:hsp:465013;Parent=scaffold_73:hit:204626;Name=Locus_1311_Transcript_1%252F1_Confidence_1.000;Target=Locus_1311_Transcript_1%252F1_Confidence_1.000 213 653 +;Gap=M147;
+scaffold_73	tblastx	match_part	6073	6603	894	-	.	ID=scaffold_73:hsp:465014;Parent=scaffold_73:hit:204626;Name=Locus_1311_Transcript_1%252F1_Confidence_1.000;Target=Locus_1311_Transcript_1%252F1_Confidence_1.000 325 855 +;Gap=M177;
+scaffold_73	tblastx	match_part	6006	6305	382	-	.	ID=scaffold_73:hsp:465015;Parent=scaffold_73:hit:204626;Name=Locus_1311_Transcript_1%252F1_Confidence_1.000;Target=Locus_1311_Transcript_1%252F1_Confidence_1.000 623 922 +;Gap=M100;
+scaffold_73	tblastx	match_part	6005	6205	298	-	.	ID=scaffold_73:hsp:465016;Parent=scaffold_73:hit:204626;Name=Locus_1311_Transcript_1%252F1_Confidence_1.000;Target=Locus_1311_Transcript_1%252F1_Confidence_1.000 723 923 +;Gap=M67;
+scaffold_73	tblastx	translated_nucleotide_match	23438	23827	191	+	.	ID=scaffold_73:hit:204627;Name=Locus_3507_Transcript_1%2F1_Confidence_1.000;
+scaffold_73	tblastx	match_part	23438	23572	191	+	.	ID=scaffold_73:hsp:465017;Parent=scaffold_73:hit:204627;Name=Locus_3507_Transcript_1%252F1_Confidence_1.000;Target=Locus_3507_Transcript_1%252F1_Confidence_1.000 2 136 +;Gap=M45;
+scaffold_73	tblastx	match_part	23439	23825	605	+	.	ID=scaffold_73:hsp:465018;Parent=scaffold_73:hit:204627;Name=Locus_3507_Transcript_1%252F1_Confidence_1.000;Target=Locus_3507_Transcript_1%252F1_Confidence_1.000 3 389 +;Gap=M129;
+scaffold_73	tblastx	match_part	23440	23658	233	+	.	ID=scaffold_73:hsp:465019;Parent=scaffold_73:hit:204627;Name=Locus_3507_Transcript_1%252F1_Confidence_1.000;Target=Locus_3507_Transcript_1%252F1_Confidence_1.000 4 222 +;Gap=M73;
+scaffold_73	tblastx	match_part	23645	23827	201	+	.	ID=scaffold_73:hsp:465020;Parent=scaffold_73:hit:204627;Name=Locus_3507_Transcript_1%252F1_Confidence_1.000;Target=Locus_3507_Transcript_1%252F1_Confidence_1.000 209 391 +;Gap=M61;
+scaffold_73	tblastx	match_part	23707	23826	111	+	.	ID=scaffold_73:hsp:465021;Parent=scaffold_73:hit:204627;Name=Locus_3507_Transcript_1%252F1_Confidence_1.000;Target=Locus_3507_Transcript_1%252F1_Confidence_1.000 271 390 +;Gap=M40;
+scaffold_73	tblastx	translated_nucleotide_match	13915	14541	84	+	.	ID=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;
+scaffold_73	tblastx	match_part	13915	13968	84	+	.	ID=scaffold_73:hsp:465022;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 6 59 +;Gap=M18;
+scaffold_73	tblastx	match_part	13919	13984	105	+	.	ID=scaffold_73:hsp:465023;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 10 75 +;Gap=M22;
+scaffold_73	tblastx	match_part	13926	13985	84	+	.	ID=scaffold_73:hsp:465024;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 17 76 +;Gap=M20;
+scaffold_73	tblastx	match_part	14026	14196	153	+	.	ID=scaffold_73:hsp:465025;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 99 269 +;Gap=M57;
+scaffold_73	tblastx	match_part	14028	14195	149	+	.	ID=scaffold_73:hsp:465026;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 101 268 +;Gap=M56;
+scaffold_73	tblastx	match_part	14039	14101	82	+	.	ID=scaffold_73:hsp:465027;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 112 174 +;Gap=M21;
+scaffold_73	tblastx	match_part	14199	14333	193	+	.	ID=scaffold_73:hsp:465028;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 271 405 +;Gap=M45;
+scaffold_73	tblastx	match_part	14200	14325	201	+	.	ID=scaffold_73:hsp:465029;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 272 397 +;Gap=M42;
+scaffold_73	tblastx	match_part	14240	14341	148	+	.	ID=scaffold_73:hsp:465030;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 312 413 +;Gap=M34;
+scaffold_73	tblastx	match_part	14367	14522	190	+	.	ID=scaffold_73:hsp:465031;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 468 623 +;Gap=M52;
+scaffold_73	tblastx	match_part	14369	14536	189	+	.	ID=scaffold_73:hsp:465032;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 470 637 +;Gap=M56;
+scaffold_73	tblastx	match_part	14371	14541	199	+	.	ID=scaffold_73:hsp:465033;Parent=scaffold_73:hit:204628;Name=gi|239510116|gb|GR225272.1|GR225272;Target=gi|239510116|gb|GR225272.1|GR225272 472 642 +;Gap=M57;
+scaffold_73	tblastx	translated_nucleotide_match	18220	18491	257	-	.	ID=scaffold_73:hit:204629;Name=Locus_790_Transcript_1%2F1_Confidence_1.000;
+scaffold_73	tblastx	match_part	18420	18491	129	-	.	ID=scaffold_73:hsp:465034;Parent=scaffold_73:hit:204629;Name=Locus_790_Transcript_1%252F1_Confidence_1.000;Target=Locus_790_Transcript_1%252F1_Confidence_1.000 1 72 +;Gap=M24;
+scaffold_73	tblastx	match_part	18220	18387	257	-	.	ID=scaffold_73:hsp:465035;Parent=scaffold_73:hit:204629;Name=Locus_790_Transcript_1%252F1_Confidence_1.000;Target=Locus_790_Transcript_1%252F1_Confidence_1.000 105 272 +;Gap=M56;
+scaffold_73	blastx	protein_match	325	390	92	+	.	ID=scaffold_73:hit:204630;Name=TINF02724;
+scaffold_73	blastx	match_part	325	390	92	+	.	ID=scaffold_73:hsp:465036;Parent=scaffold_73:hit:204630;Name=TINF02724;Target=TINF02724 114 135;Gap=M22;
+scaffold_73	blastx	protein_match	325	390	92	+	.	ID=scaffold_73:hit:204631;Name=MAA_04678;
+scaffold_73	blastx	match_part	325	390	92	+	.	ID=scaffold_73:hsp:465037;Parent=scaffold_73:hit:204631;Name=MAA_04678;Target=MAA_04678 113 134;Gap=M22;
+scaffold_73	blastx	protein_match	325	390	92	+	.	ID=scaffold_73:hit:204632;Name=jgi|Trire2|60847|e_gw1.8.384.1;
+scaffold_73	blastx	match_part	325	390	92	+	.	ID=scaffold_73:hsp:465038;Parent=scaffold_73:hit:204632;Name=jgi|Trire2|60847|e_gw1.8.384.1;Target=jgi|Trire2|60847|e_gw1.8.384.1 107 128;Gap=M22;
+scaffold_73	blastx	protein_match	325	390	92	+	.	ID=scaffold_73:hit:204633;Name=jgi|Necha2|73579|fgenesh1_kg.sca_3_chr4_2_0000027;
+scaffold_73	blastx	match_part	325	390	92	+	.	ID=scaffold_73:hsp:465039;Parent=scaffold_73:hit:204633;Name=jgi|Necha2|73579|fgenesh1_kg.sca_3_chr4_2_0000027;Target=jgi|Necha2|73579|fgenesh1_kg.sca_3_chr4_2_0000027 111 132;Gap=M22;
+scaffold_73	blastx	protein_match	325	390	92	+	.	ID=scaffold_73:hit:204634;Name=jgi|TriviGv29_8_2|111126|Trive1.estExt_fgenesh2_kg.C_60054;
+scaffold_73	blastx	match_part	325	390	92	+	.	ID=scaffold_73:hsp:465040;Parent=scaffold_73:hit:204634;Name=jgi|TriviGv29_8_2|111126|Trive1.estExt_fgenesh2_kg.C_60054;Target=jgi|TriviGv29_8_2|111126|Trive1.estExt_fgenesh2_kg.C_60054 107 128;Gap=M22;
+scaffold_73	blastx	protein_match	325	390	92	+	.	ID=scaffold_73:hit:204635;Name=FGSG_06048;
+scaffold_73	blastx	match_part	325	390	92	+	.	ID=scaffold_73:hsp:465041;Parent=scaffold_73:hit:204635;Name=FGSG_06048;Target=FGSG_06048 110 131;Gap=M22;
+scaffold_73	est2genome	expressed_sequence_match	18145	23380	17538	+	.	ID=scaffold_73:hit:204636;Name=comp69_c0_seq2;
+scaffold_73	est2genome	match_part	18145	20664	17538	+	.	ID=scaffold_73:hsp:465042;Parent=scaffold_73:hit:204636;Name=comp69_c0_seq2;Target=comp69_c0_seq2 1 2520 +;Gap=M2520;
+scaffold_73	est2genome	match_part	22384	23380	17538	+	.	ID=scaffold_73:hsp:465043;Parent=scaffold_73:hit:204636;Name=comp69_c0_seq2;Target=comp69_c0_seq2 2521 3517 +;Gap=M997;
+scaffold_73	est2genome	expressed_sequence_match	28034	28351	1572	+	.	ID=scaffold_73:hit:204637;Name=comp28807_c0_seq1;
+scaffold_73	est2genome	match_part	28034	28351	1572	+	.	ID=scaffold_73:hsp:465044;Parent=scaffold_73:hit:204637;Name=comp28807_c0_seq1;Target=comp28807_c0_seq1 1 318 +;Gap=M318;
+scaffold_73	est2genome	expressed_sequence_match	17532	17759	1140	+	.	ID=scaffold_73:hit:204638;Name=comp86638_c0_seq1;
+scaffold_73	est2genome	match_part	17532	17759	1140	+	.	ID=scaffold_73:hsp:465045;Parent=scaffold_73:hit:204638;Name=comp86638_c0_seq1;Target=comp86638_c0_seq1 1 228 +;Gap=M228;
+scaffold_73	est2genome	expressed_sequence_match	18145	23380	17538	+	.	ID=scaffold_73:hit:204639;Name=comp69_c0_seq3;
+scaffold_73	est2genome	match_part	18145	20664	17538	+	.	ID=scaffold_73:hsp:465046;Parent=scaffold_73:hit:204639;Name=comp69_c0_seq3;Target=comp69_c0_seq3 998 3517 -;Gap=M2520;
+scaffold_73	est2genome	match_part	22384	23380	17538	+	.	ID=scaffold_73:hsp:465047;Parent=scaffold_73:hit:204639;Name=comp69_c0_seq3;Target=comp69_c0_seq3 1 997 -;Gap=M997;
+scaffold_73	est2genome	expressed_sequence_match	27812	28043	1160	+	.	ID=scaffold_73:hit:204640;Name=comp60439_c0_seq1;
+scaffold_73	est2genome	match_part	27812	28043	1160	+	.	ID=scaffold_73:hsp:465048;Parent=scaffold_73:hit:204640;Name=comp60439_c0_seq1;Target=comp60439_c0_seq1 1 232 +;Gap=M232;
+scaffold_73	est2genome	expressed_sequence_match	8882	9297	2080	+	.	ID=scaffold_73:hit:204641;Name=comp26384_c0_seq1;
+scaffold_73	est2genome	match_part	8882	9297	2080	+	.	ID=scaffold_73:hsp:465049;Parent=scaffold_73:hit:204641;Name=comp26384_c0_seq1;Target=comp26384_c0_seq1 1 416 -;Gap=M416;
+scaffold_73	est2genome	expressed_sequence_match	13583	16812	16124	+	.	ID=scaffold_73:hit:204642;Name=comp253_c0_seq1;
+scaffold_73	est2genome	match_part	13583	16812	16124	+	.	ID=scaffold_73:hsp:465050;Parent=scaffold_73:hit:204642;Name=comp253_c0_seq1;Target=comp253_c0_seq1 1 3230 -;Gap=M3230;
+scaffold_73	est2genome	expressed_sequence_match	24744	25071	1631	+	.	ID=scaffold_73:hit:204643;Name=comp19586_c0_seq1;
+scaffold_73	est2genome	match_part	24744	25071	1631	+	.	ID=scaffold_73:hsp:465051;Parent=scaffold_73:hit:204643;Name=comp19586_c0_seq1;Target=comp19586_c0_seq1 1 328 -;Gap=M328;
+scaffold_73	est2genome	expressed_sequence_match	8627	8893	1335	-	.	ID=scaffold_73:hit:204644;Name=comp33179_c0_seq1;
+scaffold_73	est2genome	match_part	8627	8893	1335	-	.	ID=scaffold_73:hsp:465052;Parent=scaffold_73:hit:204644;Name=comp33179_c0_seq1;Target=comp33179_c0_seq1 1 267 +;Gap=M267;
+scaffold_73	est2genome	expressed_sequence_match	17741	17949	1045	+	.	ID=scaffold_73:hit:204645;Name=comp64231_c0_seq1;
+scaffold_73	est2genome	match_part	17741	17949	1045	+	.	ID=scaffold_73:hsp:465053;Parent=scaffold_73:hit:204645;Name=comp64231_c0_seq1;Target=comp64231_c0_seq1 1 209 +;Gap=M209;
+scaffold_73	est2genome	expressed_sequence_match	5742	7494	8743	-	.	ID=scaffold_73:hit:204646;Name=comp7503_c0_seq1;
+scaffold_73	est2genome	match_part	5742	7494	8743	-	.	ID=scaffold_73:hsp:465054;Parent=scaffold_73:hit:204646;Name=comp7503_c0_seq1;Target=comp7503_c0_seq1 1 1753 +;Gap=M1753;
+scaffold_73	est2genome	expressed_sequence_match	25607	26785	5886	+	.	ID=scaffold_73:hit:204647;Name=comp14211_c0_seq1;
+scaffold_73	est2genome	match_part	25607	26785	5886	+	.	ID=scaffold_73:hsp:465055;Parent=scaffold_73:hit:204647;Name=comp14211_c0_seq1;Target=comp14211_c0_seq1 1 1179 -;Gap=M1179;
+scaffold_73	est2genome	expressed_sequence_match	23770	24143	1861	+	.	ID=scaffold_73:hit:204648;Name=comp30578_c0_seq1;
+scaffold_73	est2genome	match_part	23770	24143	1861	+	.	ID=scaffold_73:hsp:465056;Parent=scaffold_73:hit:204648;Name=comp30578_c0_seq1;Target=comp30578_c0_seq1 1 374 -;Gap=M374;
+scaffold_73	est2genome	expressed_sequence_match	11	511	2149	+	.	ID=scaffold_73:hit:204649;Name=comp9850_c0_seq1;
+scaffold_73	est2genome	match_part	11	511	2149	+	.	ID=scaffold_73:hsp:465057;Parent=scaffold_73:hit:204649;Name=comp9850_c0_seq1;Target=comp9850_c0_seq1 6 507 +;Gap=M11 D1 M5 I1 M11 I1 M473;
+scaffold_73	est2genome	expressed_sequence_match	10768	13537	13832	+	.	ID=scaffold_73:hit:204650;Name=comp6166_c0_seq1;
+scaffold_73	est2genome	match_part	10768	13537	13832	+	.	ID=scaffold_73:hsp:465058;Parent=scaffold_73:hit:204650;Name=comp6166_c0_seq1;Target=comp6166_c0_seq1 1 2770 -;Gap=M2770;
+scaffold_73	est2genome	expressed_sequence_match	516	1379	4320	+	.	ID=scaffold_73:hit:204651;Name=comp4258_c0_seq1;
+scaffold_73	est2genome	match_part	516	1379	4320	+	.	ID=scaffold_73:hsp:465059;Parent=scaffold_73:hit:204651;Name=comp4258_c0_seq1;Target=comp4258_c0_seq1 1 864 +;Gap=M864;
+scaffold_73	est2genome	expressed_sequence_match	21783	22406	3120	+	.	ID=scaffold_73:hit:204652;Name=comp13699_c0_seq1;
+scaffold_73	est2genome	match_part	21783	22406	3120	+	.	ID=scaffold_73:hsp:465060;Parent=scaffold_73:hit:204652;Name=comp13699_c0_seq1;Target=comp13699_c0_seq1 1 624 -;Gap=M624;
+scaffold_73	est2genome	expressed_sequence_match	1577	3692	10580	+	.	ID=scaffold_73:hit:204653;Name=comp9190_c0_seq1;
+scaffold_73	est2genome	match_part	1577	3692	10580	+	.	ID=scaffold_73:hsp:465061;Parent=scaffold_73:hit:204653;Name=comp9190_c0_seq1;Target=comp9190_c0_seq1 1 2116 -;Gap=M2116;
+scaffold_73	est2genome	expressed_sequence_match	4041	4970	4650	+	.	ID=scaffold_73:hit:204654;Name=comp12788_c0_seq1;
+scaffold_73	est2genome	match_part	4041	4970	4650	+	.	ID=scaffold_73:hsp:465062;Parent=scaffold_73:hit:204654;Name=comp12788_c0_seq1;Target=comp12788_c0_seq1 1 930 +;Gap=M930;
+scaffold_73	est2genome	expressed_sequence_match	9516	10444	4632	+	.	ID=scaffold_73:hit:204655;Name=comp16202_c0_seq1;
+scaffold_73	est2genome	match_part	9516	10444	4632	+	.	ID=scaffold_73:hsp:465063;Parent=scaffold_73:hit:204655;Name=comp16202_c0_seq1;Target=comp16202_c0_seq1 1 929 -;Gap=M929;
+scaffold_73	est2genome	expressed_sequence_match	7711	8645	4666	+	.	ID=scaffold_73:hit:204656;Name=comp11863_c0_seq1;
+scaffold_73	est2genome	match_part	7711	8645	4666	+	.	ID=scaffold_73:hsp:465064;Parent=scaffold_73:hit:204656;Name=comp11863_c0_seq1;Target=comp11863_c0_seq1 1 935 +;Gap=M935;
+scaffold_73	protein2genome	protein_match	205	423	213	+	.	ID=scaffold_73:hit:204657;Name=TINF02724;
+scaffold_73	protein2genome	match_part	205	423	213	+	.	ID=scaffold_73:hsp:465065;Parent=scaffold_73:hit:204657;Name=TINF02724;Target=TINF02724 74 146;Gap=M73;
+scaffold_73	protein2genome	protein_match	205	423	217	+	.	ID=scaffold_73:hit:204658;Name=MAA_04678;
+scaffold_73	protein2genome	match_part	205	423	217	+	.	ID=scaffold_73:hsp:465066;Parent=scaffold_73:hit:204658;Name=MAA_04678;Target=MAA_04678 73 145;Gap=M73;
+scaffold_73	protein2genome	protein_match	205	423	224	+	.	ID=scaffold_73:hit:204659;Name=jgi|Trire2|60847|e_gw1.8.384.1;
+scaffold_73	protein2genome	match_part	205	423	224	+	.	ID=scaffold_73:hsp:465067;Parent=scaffold_73:hit:204659;Name=jgi|Trire2|60847|e_gw1.8.384.1;Target=jgi|Trire2|60847|e_gw1.8.384.1 67 139;Gap=M73;
+scaffold_73	protein2genome	protein_match	205	423	217	+	.	ID=scaffold_73:hit:204660;Name=jgi|Necha2|73579|fgenesh1_kg.sca_3_chr4_2_0000027;
+scaffold_73	protein2genome	match_part	205	423	217	+	.	ID=scaffold_73:hsp:465068;Parent=scaffold_73:hit:204660;Name=jgi|Necha2|73579|fgenesh1_kg.sca_3_chr4_2_0000027;Target=jgi|Necha2|73579|fgenesh1_kg.sca_3_chr4_2_0000027 71 143;Gap=M73;
+scaffold_73	protein2genome	protein_match	205	423	224	+	.	ID=scaffold_73:hit:204661;Name=jgi|TriviGv29_8_2|111126|Trive1.estExt_fgenesh2_kg.C_60054;
+scaffold_73	protein2genome	match_part	205	423	224	+	.	ID=scaffold_73:hsp:465069;Parent=scaffold_73:hit:204661;Name=jgi|TriviGv29_8_2|111126|Trive1.estExt_fgenesh2_kg.C_60054;Target=jgi|TriviGv29_8_2|111126|Trive1.estExt_fgenesh2_kg.C_60054 67 139;Gap=M73;
+scaffold_73	protein2genome	protein_match	205	423	218	+	.	ID=scaffold_73:hit:204662;Name=FGSG_06048;
+scaffold_73	protein2genome	match_part	205	423	218	+	.	ID=scaffold_73:hsp:465070;Parent=scaffold_73:hit:204662;Name=FGSG_06048;Target=FGSG_06048 70 142;Gap=M73;
+scaffold_73	genemark	match	8789	18611	.	-	.	ID=scaffold_73:hit:204663;Name=genemark-scaffold_73-abinit-gene-0.0-mRNA-1;_AED=1.00;_eAED=1.00;
+scaffold_73	genemark	match_part	18603	18611	.	-	.	ID=scaffold_73:hsp:465071;Parent=scaffold_73:hit:204663;Name=genemark-scaffold_73-abinit-gene-0.0-mRNA-1;Target=genemark-scaffold_73-abinit-gene-0.0-mRNA-1 16 24 +;Gap=M9;
+scaffold_73	genemark	match_part	8789	8803	.	-	.	ID=scaffold_73:hsp:465072;Parent=scaffold_73:hit:204663;Name=genemark-scaffold_73-abinit-gene-0.0-mRNA-1;Target=genemark-scaffold_73-abinit-gene-0.0-mRNA-1 1 15 +;Gap=M15;
+scaffold_73	genemark	match	20946	21018	.	+	.	ID=scaffold_73:hit:204664;Name=genemark-scaffold_73-abinit-gene-0.1-mRNA-1;_AED=1.00;_eAED=1.00;
+scaffold_73	genemark	match_part	20946	20951	.	+	.	ID=scaffold_73:hsp:465073;Parent=scaffold_73:hit:204664;Name=genemark-scaffold_73-abinit-gene-0.1-mRNA-1;Target=genemark-scaffold_73-abinit-gene-0.1-mRNA-1 1 6 +;Gap=M6;
+scaffold_73	genemark	match_part	21010	21018	.	+	.	ID=scaffold_73:hsp:465074;Parent=scaffold_73:hit:204664;Name=genemark-scaffold_73-abinit-gene-0.1-mRNA-1;Target=genemark-scaffold_73-abinit-gene-0.1-mRNA-1 7 15 +;Gap=M9;
+scaffold_73	genemark	match	24112	24220	.	-	.	ID=scaffold_73:hit:204665;Name=genemark-scaffold_73-abinit-gene-0.2-mRNA-1;_AED=1.00;_eAED=1.00;
+scaffold_73	genemark	match_part	24212	24220	.	-	.	ID=scaffold_73:hsp:465075;Parent=scaffold_73:hit:204665;Name=genemark-scaffold_73-abinit-gene-0.2-mRNA-1;Target=genemark-scaffold_73-abinit-gene-0.2-mRNA-1 22 30 +;Gap=M9;
+scaffold_73	genemark	match_part	24112	24132	.	-	.	ID=scaffold_73:hsp:465076;Parent=scaffold_73:hit:204665;Name=genemark-scaffold_73-abinit-gene-0.2-mRNA-1;Target=genemark-scaffold_73-abinit-gene-0.2-mRNA-1 1 21 +;Gap=M21;
+##FASTA
+>scaffold_73
+TTTGATTTATGAAAGTAGTTATATGATTGTCTACTATCTATTTTTAATGCATTTTTACCT
+AATTCAAATACAAATCCGGCAGTAATTATACCTATAAATAGCTTTATTTGCTTTGATGAT
+GATCTTTTTACTTTTATTATTTTGTGAAATTCTTATTTCTAATTTAAAAGCAGAACAATT
+TACGAGATTTATATTTTTAATATTATACAAAATATTATGTTACAATCATCAAAAATAATA
+GGAGCAGGATTAGCTACAGTTGGAGTTTTAGGAGCTGGAGTAGGAATAGGAGTAGTATTC
+GGAGGTTTAATCTTAGGTGTTGCTAGAAACCCTTCATTAAAAAACCAATTATTCTCTTAT
+GCTATATTAGGGTTTGCTTTCTCAGAAGCTACAGCTTTATTCGCTTTAATGATGTCTTTA
+CTTTTATTATACGTTGCTTAATTTCGCTTCGTTATAAGTAAATTTATTACTATACATATC
+TTTATATGTAAATTTTTAAGGGATTGGGTGGGTAGGGATGTTAGTTATACTAACAATAAA
+AAAAACAATTCTATTTATAATTAGAAATTTAATAGTTGAATTTAAAATGAAAAATTTATT
+AAACACATTTATATATTTAGACGCGCCTACTGCTTGAGGTATATACTTCCAAGATAGCGC
+AACTCCACAAATGGAAGGTTTAGTGGAACTACATGATAACATTATGTATTACTTAGTGTT
+AATCTTATTTGCCGTAGGATGAATACTGTTCTCTATAATAAAAAACTTTGCTGCGGCTAA
+AGCACCTATATCACACAAATACTTAAATCACGGGACTTTAATAGAATTAATATGAACTAT
+AACACCAGCTCTTATATTAATACTTATAGCATTCCCATCATTTAAATTATTATATTTAAT
+GGATGAAGTAAACGATCCTTCAATGTCAGTTCTTGCAGAAGGACATCAATGATATTGAAG
+TTACCAATATCCAGATTTTATAGATTCTAATGAAGAATTTATAGAATTCGATTCATACAT
+AGTACCAGAATCAGACTTAGAAGAAGGTGGACTAAGAATGTTAGAAGTTGATAATAGAGT
+TATAGTTCCTGAATTAACACATATTAGATTTGTTATAACATCTGGAGATGTTATACACTC
+TTTCGCTTGTCCTTCATTAGGTATAAAATGTGACGCATATCCTGGTAGATTAAATCAAGT
+CTCAGTATTTATTAATAGAGAAGGAGTATTCTACGGACAATGTTCAGAAATATGTGGAAT
+CTTACATAGTTCAATGCCTATAGTTATAGAATCTGTAAATATAGACAAATTTGTTCATTG
+ATTATATAATGCTTAATTTATTATAATGTAAAATTTATCTGAATAATTTATTTATTCGAT
+AAAAGAGGTATTAGTTTAATGGTAAAACTTGATGTTACGGCCATCACAATCATAGTTCGA
+GTCTATGATGCCTCTAGTATAGTCATTAATGTCTATACTAATGTATGTGTATATACATAT
+GTAGTGACAATTTAGAACAATTTGATATATATTAAATAAACATATGAGTTTAACTTTAGT
+ACTTTTTTTAATAGGAATCTTAGGATTCGTATTTAATAGAAAAAATATAATATTAATGCT
+TATTTCAATAGAAATAATGCTATTATCTATAACATTTTTAATATTGGTAAGTTCTATTAA
+TCTTGACGATATAATAGGACAAACATATGCTATATACATTATAGTAGTTGCTGGTGCAGA
+ATCTGCTATCGGTTTAGCTATTTTAGTAGCTTTCTATAGACTAAGAGGAAGTATCGCAAT
+AGAATATAAATAATGTATTTAAGTATAATTATATTACCTTTATTAGGATCTATAGTATCC
+GGGTTTTTTGGTAGAAAAGTCGGTGTGACAGGAAGTCGTATATTAAGTTGTTTAAGTATA
+ATGACAACTACAATATTAGCTATCATTAGCTTCTTTGAGGTAGGATTTAATAATAATCCT
+ATTTCTATAAATTTATTTAAATGATTAGATAGTGAATCATTTAATATGGCATGAAACTTT
+CAATTTGATAGTTTAACGGTATCAATGCTAATACCTGTATTAGTGATAAGTTCTTTAGTT
+CATTTATATTCTATAGGATATATGAGCCACGATCCACACAATCAAAGATTCTTTAGCTAT
+TTAAGCTTGTTCACTTTTATGATGATTATATTGGTAACAGGTAATAATTATCTATTAATG
+TTTGTAGGATGAGAAGGTGTTGGAGTTTGTTCATACCTTTTAGTTAGTTTCTGATTCACT
+AGAATTGCAGCTAACCAGAGTTCTTTATCTGCATTTTTAACTAATAGAGTAGGAGATTGT
+TTCTTAACAATAGGAATGTTTGTAGTATTATGATCTTTAGGTAACTTAGATTATAGTGTA
+GTATTCTCAGTAGCTCCTTACATTAACGAAAATGTTATAACAATTATAGGTATTTGTCTA
+TTAATAGGGGCTATGGCTAAAAGTTCTCAAGTAGGTCTTCACATATGACTACCTATGGCC
+ATGGAAGGTCCTACACCTGTATCTGCATTAATACACGCAGCTACAATGGTTACAGCAGGG
+GTGTATCTATTAATACGTTCATCTCCTTTAATAGAATATAGTTCAACTGTTTTATTAATA
+TGTCTTTGATTAGGTGCTATCACAACAGTGTTTAGTTCTCTTATAGGTTTATTCCAACAA
+GATATTAAAAAAATTATTGCTTACTCTACTATGAGTCAATTGGGTATGATGGTTATAGCT
+ATAGGTTTGTCTTCTTATAATATTGCTATATTTCACTTAATAAATCACGCTTTTTATAAA
+GGATTATTATTCTTAGGAGCAGGTGCTGTAATACACGCTGTGGCAGATAATCAAGATTTA
+AGAAGATACGGAGGATTAGTATCATTCTTACCTTTAACTTATACAGTTATATTAATAGCT
+AGTCTTAGCTTAGTTGCTTTTCCTTTTATGACAGGGTTTTATAGTAAAGATTTTATATTA
+GAATCTGCTTATGGTCAGTATTGCTTTAGTAGTATAAACGTCTACTTTATAGCAGTAATA
+GGTGCAATATTTACTACATTATACTCAGTAAAGGTTATATACTTAACATTCTTAGCTAAT
+CCTAATGGGCCTGTAAACTATTATAAAAACGCTCATGAAGGTGATATCTTCTTAAGCTTA
+CCTTTAGTTATATTAGCTATATTCTCTATATATTTCGGATTCTTAACTAAAGATATATTT
+ATCGGTTTAGGTTCAGGATTCTTTACAGATAATAGTATATTTATCCATCCTATGCATGAA
+ATATTAATAGATACGGAGTTCGCCGTACCTACATTGTTTAAATTACTTCCTTTAATATTC
+ACAGTATCTTTCTCAGCTTTAGCTGTTACATACCCAGAATTTATGCCTAGTGCCGTAACT
+AACTTCAAACTATCTAGTTTAGGATATTACGTATTCGGTTTCTTTAACCAACGTTTCTTA
+GTAGAATTCTTCTATAATAAATTTATAGTTAACACAATTCTAGATATAGGGGGTCAAACA
+ACTAAAGTGTTAGACAAAGGTAGTATAGAATGAGTTGGTCCTTATGGTATGGGAGTAATG
+TTAACTAAAACAAGTAAAACAATATCTAACTTAAGTAAAGGAGTTGTTACTGATTACGCT
+CTTTATATATTAATAGGAGTTTGTTTCTACTTATCAATATTTACTTTTGTTTCAATATTC
+TTTGACTTAGTTAATTCTATTACAGTGTCTTGTATAATAGTTTTAATAAGTATTAGTAAC
+TATATTATGTCAAGTAAAGAAAGTAATAACAAAATTGTCTAATGTCTAGTATTATATTAT
+CCTAAGATGATATAAAATAAATATTAACTTATTATATAAACTATATTACATAAATAACAT
+TACAATTTGCAAACTATGCAGTATATATATTTAAAAATAAATATATAATTCTTTAAAGTA
+CATATACATAATATATTAAAAATAACTTTTAAATGTAAAGTTGTATTATGTATAAGTATT
+AATAATTTTTTTATAATTTAAAAATAACTACTATGAGATTATTAAAAAGTCATCCTTTCT
+TAAAATTAGTTAACGCTTACATAATTGATCATTCACAACCAAGTAATATAAATTACTTAT
+GAAATTTCGGTTCTTTATTAGGACTTTGTTTAGGTATACAAATAGTTACAGGTGTAACTT
+TAGCTATGCACTATAATCCTAGTATCGCAGAAGCATTCAACTCTGTTGAACACATAATGC
+GTGATGTAAATAATGGATGATTAGTTCGTTACTTACATAGTAACACAGCTTCAGCTTTCT
+TCTTCTTAGTGTACTTACACATAGGTAGAGGTTTCTATTATGCATCTTACAGAGCTCCTA
+GAACTTTAGCTTGAACTATAGGTGTGGTAATCCTTATCCTTATGATAGGAACAGCTTTCT
+TGGGTTATGTTTTACCTTATGGGCAAATGTCATTATGAGGTGCTACAGTTATTACTAACT
+TAATTAGTGCTATACCATGAATAGGACAAGATATAGTTGAATTCATTTGAGGTGGATTCT
+CTGTTAATAACGCTACTCTAAACAGATTCTTCGCTTTACACTTTGTGTTACCTTTCGTAT
+TAGCTGCATTAGTATTAATGCACTTAATAGCAGTACATGATACAGCTGGAGCAAGTAATC
+CTTTAGGAGTACCCGGATATTATGACAGAATACCTTTCGCACCTTATTACTTATTTAAAG
+ATTTAATTACTATATTTATCTTTTTCTTTGTTTTAAGTATGTTTGTGTTCTTTATGCCTA
+ATGTATTAGGTGACAGTGATAACTATATAATGGCTAACCCTATGCAAACACCTGCAGCTA
+TAGTACCAGAATGATACTTATTACCGTTTTATGCTATACTAAGATCTATACCTAATAAAT
+TATTAGGAGTTATAGCTATGTTTAGTGCTTTAGTTATAGTATTATTATTACCTAAAGTAG
+ATTTAGGTTTAACTAAAGGTTTACAATTCAGACCTTTAAGTAAAATAATGTTTTATATAT
+TTGTTATAAATTTCTTAATATTAATGCAATTAGGAGCTAAACACGTTGAAAGTCCATTTA
+TAGAATTTGGACAAATCAGTACAGTTCTATATTTCTCTTACTTCTTAATTATAATGCCTG
+TTGTAAGTATAATAGAAAATACTTTAATAGATTTATATCAAGTTAATAACAAAACAATAT
+AATAAACTTAAATATAAAGCAAAAATTAGCTAGATCTTTTAGTGACATAAAGTAATATTA
+CTTATTTTAACTTGTCTTTATTTTATATAGGATTAATCCTATGTTTAGATTTCTAATTAA
+AATCTAAATAGGTAAAGACAATTTTATATAATCTTTAGGATTATTATAAAAAGATTATGA
+TGTAAAAGGATTTACACTTTGATTGCAAATCAATAGTACGAGGTTCAATTCCTCCATAAT
+CTTACTACAAATGTAGTACCTTAATAATGAAAATATCTTATTAATACTTACATTCATAAA
+TAATTTACTATATAAAATATACATATATAGAATATATCTATAAATATAGATATAAGGTCA
+ATAAAATACAGTATTTAGTTTAAAGTGTTAAAACAGAGTATAAATATAATTTTTTATCAT
+ATAGTAAAGGACTATATAAATGAATAATTTTACGATAATGAAAAGATTTGTAAAAATTTG
+AGTGGAACAATAAATATAGTAAGTTCACTTTTAATTATTAGTATTAACTAATAATGTCAC
+TTAAATATCAATACTCTATTATTTCATAATTTTGAAATTAGAAAACGAAGGTACCTTAAA
+CTTGAAATTAAGATCTGAAATATCTATGGGTATGGAAAGATGATTTAATTCAACTAACGC
+TAAAGATATAGGAACTTTATACTTAATATTTGCTCTATTTTCAGGATTGTTAGGAACAGC
+AATGTCAGTGCTAATAAGATTAGAACTTAGTGGACCAGGAGTTCAATTCATATCAAACAA
+TCAATTATATAACAGTATCGTAACAGCTCACGCTTTATTAATGATATTCTTTATGGTTAT
+GCCTGCCTTAATTGGAGGATTTGGAAATTTCCTTATGCCTTTAATGGTAGGAGGTCCTGA
+TATGGCATTCCCTAGATTAAATAATATWAGTTTCTGATTATTACCTCCTAGCTTAGTATT
+ATTGATATTCTCTGCATGTATAGAAGGTGGAGCTGGTACAGGTTGAACTTTATATCCTCC
+TTTATCTGGACTACAAAGTCATAGTGGACCTAGTGTAGATCTAGCTATTTTTGCTTTACA
+CCTTTCAGGGGTAAGTAGTTTATTAGGTGCAGTAAACTTTATAACTACAATAGCTAATAT
+GAGAACACCAGGTATAAGATTACACAAATTAGCCTTATTCGGGTGAGCTGTAGTTATAAC
+AGCTATCTTATTACTATTATCATTACCTGTGTTAGCCGGAGGTATTACAATGATATTAAC
+TGATAGAAACTTCAATACATCATTCTTTGAAGTAGCTGGAGGTGGAGATCCAATATTATT
+CCAACATTTATTCTGATTCTTCGGTCATCCAGAAGTTTACATTTTAATTATACCTGGTTT
+TGGTATAATTAGTACAACTATTTCAGCTAACTCAAGTAAACCTATATTCGGTTATATCGG
+TATGGTTTATGCTATGATGTCTATTGGAATATTAGGATTTATCGTGTGATCACATCACAT
+GTATACAGTAGGATTAGATGTAGATACAAGAGCTTACTTTACAGCTGCTACATTAATTAT
+TGCTGTGCCTACAGGAATTAAAATATTCTCATGATTAGCTACATGTTACGGAGGATCTAT
+AAAAATGACACCTTCAATGTTATTTTCATTAGGTTTCGTATTCATGTTTACAATTGGAGG
+ATTAAGTGGTGTTGTATTAGCCAATGCATCACTTGATATCGCATTCCACGATACTTACTA
+CGTTGTTGCTCACTTCCACTATGTTTTAAGTATGGGTGCAGTATTCGCAATGTTTGCAGG
+ATGATACTTCTGAATCCCTAAAATGTTAGGTTTAAATAACGACTTAGCTTTAGCTAAAAT
+ACAGTTCTGATTATTATTCATAGGGGTTAATCTTACATTCTTCCCACAACACTTCTTAGG
+TTTACAAGGTATGCCTAGAAGAATAGGTGACTACCCTGATGCTTTTGCAGGATGAAACTT
+AATAAGTAGTGTTGGATCTATCGTAAGTGTAATAGCTGCTGGATTATTCTTATACATTGT
+TTACAAACAATTAGTAGAAGGTAAAGTAGCAAGTAGAAACCCTTGATTAACACCAGGATT
+TTATACTGACGTATTACAAGCTAACTTAAACAGATGTTATAGTAGTTTAGAATGAGGATT
+ATCAAGTCCACCTAAACCTCACGCATTTGTAAGCTTACCTTTACAAAGTTAAATTATATA
+AGTATAATTAAAATTAATTTTAATTAGAAATATTCTTTATTTATACATGATTTATAAACT
+AGTTATAAATAATATATTTCAAGTCTCATTAGCTCAATGGAAGAGCATGATACTTCTAAT
+ATTAGGACCTTAGTTCGACTCTAAGATGAGACTATGAGCTTTAGTTTAAGCAATCACCCT
+CAATAATAAATAGTTTATTAATTATTAAATATTACTAACTATTTTTGCATCTAGGTTATT
+TAAAGTTTAATATAAGAATTTATTACAATTGTAAACATTAGACAAAGTTCATCTTGTCTT
+GTAGCGTAGTGCTATAAAAGTGTATTATTAACTTTTTATAATAGAAAAGAGGTAAAACTA
+CTAGTTTTAGTAAAAGTAACAAGAAAAATGAATTTACCTATAACTGTTATTTCAATTATT
+GAAAATCTATTATTAATGTTACCCGCATTATTAGTAGTAGCATACGTAACTGTAGCAGAA
+AGAAAAACTATGGCTAGTATGCAAAGAAGATTAGGTCCGAACGCTGTAGGTTATTACGGT
+CTATTACAAGCCTTTGCAGATGCTTTAAAATTAATTTTAAAAGAATATGTTGCACCTACA
+CAAGCTAATTTAATACTATTTTTCTTAGGACCAATAGTGACATTAATATTTGCTTTATTA
+GGTTATGCTGTTATTCCTTATGGACCTGGATTATCTTTAGGTGATATGGAATTAGGTATA
+CTATTTATGTTAGCTGTATCATCTTTAGCTACTTATGGTATATTACTTGCAGGATGAAGT
+GCTAATAGTAAATACGCTTTCTTAGGATCTTTAAGAAGTACAGCCCAATTAATCAGTTAT
+GAGTTAGTTTTAAGTTCAGTACTATTAATTATTATTATGATAACAAATAGTTTAAACTTA
+AATATAAACGTACAATTTCAAAAGATAGTATGATTAGCTTTACCTTTATTCTGTATATTA
+ATAATATTCTTTATTGGTTCTGTAGCGGAAACTAATAGAGCTCCATTTGATTTAGCTGAA
+GCTGAATCGGAATTAGTTAGTGGATTTATGACAGAGCACGCGGCTGTTATATTTGTTTTC
+TTCTTCTTAGCTGAATATGCAAGTATTGTAATAATGTGTATATTTATTAGTATTTTATTT
+TTAGGAGGTTATTTAGTGCAATTCGACTATATTTATGTATTTGATCCATTAAACTATATA
+TACGCCTATTTATTTAATATAGAGTGAATTACATCATCGGAATATTTCAAACTAAGAGGA
+CTTTTAACTAGTTCTTCTGTAGACGGATTATTATCTAGTTTAGCTTTAGGTATTAAAAGT
+TCAATAATGGTATTTGTATTTATTTGAGTTAGAGCTTCATTCCCTAGAATACGTTTCGAC
+CAATTAATGTCTTTCTGTTGAACTGTCCTATTACCTATTTTATTCGCATTTATAGTATTA
+ATTCCATCTTTATTATATATATTTGGGATATACTTTATAAATATAAGCTTATTTTAATTA
+AAACTAATTAAGATTTAACCATGAAATGCATGTCCATCGGTGTCATTATATAATCTAAAG
+TTTGAAAATAATATCTTTTATAAGATGTTATTATCCTCTTTATTAACTGTACCCGTGATA
+GGTACAATTATAGTATCTAGTATAGACTCGTACAAAAAAGGTTCAGAAGTCTATACAAAA
+ACAGTCGCACTAGTAACAAGTGTAATAAACTTAATTATATCTTTAGTTATGTTTATATTA
+TTTAATAATAGTACTAATCAATTTCAATATGTACAAGAACATTATAACGTACAATTATTT
+GATATTTATTTAGGTGTAGATGGTATATCTATATACTTTATATTATTAACTACAATAATA
+ATGCCTATAGCACTATTATCTAATTGAGATTCTATAAAAGAAAATGTAAAATCTTTCTTA
+ATAATAATGTTATTATTAGAAACATTACTATTAGCTGTATTTATGGCATTAGATATAATG
+TTATTTTATATCTTTTTCGAAAGTATATTACCTCCTTTATTTATATTAGTGGGTATATTT
+GGATCAGATAACAAAGTAAGTGCTAGTTATTATTTATTCTTATATACATTATGAGGTTCA
+TTATTCTTATTATTATCTATATTAAGTACATCATCTATTATGGGTAGCACAGATTTTGAT
+ACTTTGTTCAAATTAAACTTTGAATATAAAACACAAATATTCTTATTTGTAGGAATATTT
+ATAGCATTTGCAGTGAAAACACCGACAATATTCCTAAATAACTGACTGTTAAAAGCTCAC
+GTTGAATCTCCTCTWGGTGGAAGTATAGTGTTAGCAGCTATTGTATTAAAATTAAGTCTA
+TATGGTATATTTAGATTAATATTACCTATATTACCAAAGGCATCTTTAGATTATACTTTT
+GTGATATATACTATAGCTGTAATTACCATAATATATGCTAGTTTTAGTACATTAAGAACA
+ACTGACGTAAAAGAATTAATTGCTTACAGTTCTGTATGTCACGCAGCTGTATATTTAATA
+GGAGTATTCAGTAATACAATACAAGGAGTAGAAGGAAGTATAGTTTTAGGATTAGCTCAC
+GGATTTGTATCTAGTGGTTTATTTATATGCGCAGGTGGTATATTATACGATAGAACTGGT
+ACTAGAAGTATATACTTTTATAGAGGTGCTACTCAATTAATGCCTATTTTCGCTATATTA
+TTCTTCATATTAGCTTTAGGTAATTGTGGTGCTCCTTTAACTCTAAATTTTGTAGGTGAA
+TTTATGTCACTTTATGGAATAATAGAAAAATTACCAGTATTAGGAGTATTTGCCTGTTCT
+TCTATAGTGTTCTCTGCAGCTTATACTATCTACATGTTTAACAGAACAGCCTTCGGTGGT
+TCTTTCAATAGATTCTTAGAAGAAAGTGTATATGATGTTAATAAAAGAGAATTTATAATG
+TTATTTATATTGGTTGTATTTACTGTAGTATTTGGTATATATCCTTCATTAATATTAAAC
+GTATTAGACTATTCTATGAATGGTTTAATATATAGTGTATAATTAAATTTTATATACTTT
+CAATCTATTTACGATTAAAATAAAAGACGTATTATACAAATAAAAAGAAAAATAAACATG
+CCACAATTAACACCTTTTTATTATATGAATGAAATAGTATTTGCTTTTGCTGTAATAGTA
+TTAGTATTGTACATATTATCTAAATACATATTACCAAGAATAGTTCSTTTATTCTTATCA
+CGTATGTTTATTAATAAAATATAATATAATAAACATATATTTTATAGTATTTATACTATA
+AGTACTTAGTTGTTTAAAGAGATATATATAATAGTAGTAATATATACTACTTATGTTTAC
+ACAAAATTTATTTACAGAAATAAGAAGTCCCTTAGATCAATTCGAAATAAGAGACATATT
+AAACTTGGAAGTTTTAGGTGGTAACTTACACCTATCATTAACAAATATAGGATTCTACTT
+AACATTAGGTTTCTTAATAACATTAATATTAAGCTTAGTTGCAACTAATTATAACAAATT
+AGTAAGTAACAACTGATCTATAGCTCAAGAATCTTTATACGTAACAATACATAACATAGT
+TACAAACCAAATAAATGCTAGAAATGGACAAGTCTATTTCCCATTTATATATACATTATT
+TGTATTTATATTAATTAATAATTTAATCGGAATGATACCTTATAGCTTTGCTTCAACAGG
+TCATTTTGCTTTAACATTCGCTCTTAGTTTCACAATAGTATTAGGAGCAACAATCTTAGG
+ATTCCAAAAACATGGTTTAAAATTCTTCTCGTTATTAGTACCAGCTGGTTGTCCTTTAGG
+TCTTTTACCTTTATTAATAACTATAGAATTCATTTCATACTTAGCAAGAAATGTTTCATT
+AGGACTTAGATTAGCTGCTAATATAACAGCAGGTCACATGTTATTAAGTATATTAAGTGG
+ATTTGTTTATAACATAATGAACTCAGGTATAATATTCTTCGTATTAGGATTAATACCTTT
+ATTATTTATTATAGCATTCTCAGGATTAGAATTCGCTATAGCATTTATTCAGGCGCAGGT
+ATTCGTAGTGTTATCCAGTTCATACATAAAAGATGGATTAGATCTTCACTAATATTGACT
+AAGAGTAATATAATTAAAAGAAAAATATGTTAAGCCAGAACACAATACATTTTTTATTAA
+ATAAAATAAATAGCTTTTCTCTAAAAATACATTTATCAAGTAGTAAAGAATTAAATATTA
+ATCCTTGATGAGTTACAGGTTATACAGACGGTGAAGGAAATTTTACTATAAAAACTTTAG
+TATCTAAAAGTACAAAAATAGGGTATACGGTTAGACTAATATATCAAGTTTCCGTACATC
+CTAGTGATGTAGAAGTATTATATAAATTAAAGTCCTTTTTTAACGATGTTGGCGATATTA
+TTATTACTAAGCATTATGTGGCCTATAGAACAACAAAATTATCAGATATATTAAGTGAAA
+TGATTCCACACTTTAAAACTTACCCTTTACAATCAACTAAGTTAATATCATATTCTTTAT
+GTGAAGCTGTAGCAATGTTAATGAAAAACAATGAACATCTGACACTTGAAGGCTATAGAA
+AAATATTGTCTTACAAAGCCGCATTAAAAAAAGGTTTAGACGCCACTATATTTAAACATA
+AAGAATTTTCAGATATTATTCCATTTGATATAACTAATATAATAATTAATGATGATTCTA
+AACTAGATCCTAATTATATAGCAGGATTTGTAGCTGCTGATGGTTCTTTCTTTATATCTA
+AACCTTCATCTAGTGGTAAATGACCTAATTATGATGCTACTTTTTCTATAGCCCAAAATA
+ATGGAGATATAAAACTATTAAATAGAATGATCTTAACGTTAGGCTGTGGTACTATAAAAT
+CAGGTAGTAAAGGTATGAAATATTTGGCAGTAAGAAATAAAAAAGAATTACATAATCTAA
+TTGTACCATTTTTCATAAAGCATAATATAAATAGTGAAAAACATAAAGATTTTGTGAATT
+TTACTATGGCAGTTATAATATTATATAATAACTTAGGTAAAGGATTTTATAATTTATCTG
+AAGATGATATAAATAAATTAGATCACTGTATAGACTCTATGAATAAGAACAGATACAGCA
+GTTAATATAACGACTTATAATCTATAATTATTAATATGATAGTTAAAAAATATTAGAAGT
+CTTAGTAGAGAACGGGTGGGAATGGTGGGAGTATTATATTTTTATATAAGTATTCAGTTC
+TTTAAATATATATATATATATGTAATGCTATTGATTACATGGACTTCTTTATGATATTTT
+TATATACAGTATTTTTTTATTTCATCTTTCAAGGTTATATAAAACCTAAACATCTTGTAT
+TTATATTAGCAATATGTATTATTTTATATTTAGCAGTTGATACGGCTTACGCTATGAGTC
+CTAAAGCTTTAGATGATTCTATAGATGTAAAAATCAGTGACAACACTAATAATATAAGTT
+TAAATAATGCTAGTTTTAATATACCTGATACAGTTACCAAAGGATTAACAAACTTAGGTA
+CAGGTGCAGCAATAGCTGCCGGAGTGAAAGCAGGGGCAAGTATAGCTAAAACCACTGGAT
+TAACTCCAACAGCTAAGATAGGAGTAATGGCAGCGGGGGCTATTATAGCAGGTAGTACAG
+TTTCAGTAGTTAATGCTATTAATGCTATTGATAACAGTAAAGTAATTACTTCAAAAGAGG
+CAGTTAAAACTACTACTACTAATACACCTTCTTCTGGTAATCCACCATCTGATGCATTAT
+CTGTGGAGCCTTCAGCTGATATGGAAACAGTACTAAGTTTATTAAACGCTAATTATACTT
+TACACATATGTATTACGTATTTAATATTGATTTTATTAATACTATATACAACTGATAAGG
+TTATGAATAAAAAGTGAAATTTACTATTTATTAAAAGTATATTTGGTGAATCATTCTATA
+ATTTAATTATAAAATGATTTTCCTTTGCCGGTAAGTATAACAAAATATGAATGGCTTTAG
+CTTGATTTTTATTATCAATTGCTAGTATCATTACTCTATATGTATCTAGTTATATCTTAA
+ATCATATAGATATTATAAGTGATATAGTAAGTAAGTAATAAATAAATAAAAAATAAATTA
+TAAGTGAGAGTAACAAGTTAGTTAGGAAAATTATATAAACAATAAAAATTTRTCCTTATA
+TATTAGGAATAATGAAAATTATAAATTATAATGATAGAAATTACAAATGAATAGTTGATT
+ATTCGAGTTTGCTGCTGCTGCTGCTAAAGCAAAGTTAACGTAAAAAGCGAACAATTATAA
+ATTTTAAAATAGAATGGTATTTATATACAGAACATTATATAGTTTATTACTCTCCTTATA
+TTTATAATATTAGAACTTATAGTGATGTAAAGAAATTTATATCAAAAAAATAATAGCTGA
+GTTTGGTGATGGCTCTGATTGAATGCTGTCCAAGTGCTTGACACATGCTAATCGTACGTT
+TTAATTTCTATACTATTACTATAACGCAGCGCAAGTTACGTTAAGTTAAGGTTACAAATT
+AAAAAGTGGTGTACAGGTGAGTATAATGATATTCTTCGCCGACCTTAAAGTGTAGGTAAA
+TCCTACATAATAATAAAGGGAAATAAATTCCCGCTTTAAGAGGATAATAAATATCTTCGA
+GATAGGTAGTAGTTAAGGTGATGGCTTAACTAGCCTGAAACTCTCGTAGTCGAATCTGAA
+AGGTTGATCGACCACATTGGGTCTGAAAAAATCCCAATGCAAGTTAGTACAGCAGTGAGG
+AATCTTGGTCAATGGCCTAACGGCTGAACTGGCAACTTGGAAAAGTGGCAAGTCCTACTT
+TGATTATATCGTAGAATATAATCTATAGGATTGTATTAAAATTGAATAAAGCTTTGTTTA
+TATATTGATAATGACAGTATATATATCGTGTCTTGACTAATTACGTGCCAGCAGTCGCGG
+TAATACGTAAGAGACTAGTGTTATTCATCTTAATTAGGTTTAAAGGGTACCTAGACGGTC
+AATATAGCTTCTAGAATGTTAGTACTTGACTAGAGTTTTATGTAAGAGGGTAGTACTTGA
+GGAGGAGAGATGAAATTCTATGATACCAAAGGGACTCGGTAAAGGCGAAGGCAACCCTCT
+ATGTAAAAACTGACGTTGAAGGACGAAGGCACAGAGAACAAACAGGATTAGATACCCAAG
+TAGTCTTTGCAGTAAATGATGAATGCCATAGGTCAGATTAAGATTTAATAACTTAGTTCT
+TCAGTAAGGAACTAAATATTAAACATTATTTGGTCTATAAATGAAAGTGTAAGCATTTCA
+CCTCAAGAGTAATGTGGCAACGCAGGAACTGAAATCACTAGACCGTTTCTGACACCAGTA
+GTGAAGTATGTTGTTTAATTCGATGATCCACGAAAAACCTTACCACAATTTGTATMATTA
+TTACAGGAGTTGCACGGCTGTTTTCAGTTAATGTTGTGAAACTGTGGTTTCCATGAAATT
+AACGCAATCCCTGGCTTTATTTTTTAAATCTTTACGATAAAGCATTTGATCCTGGAATTT
+GGAAAGAAAAAGGGGACAAAGACAAGTCATCATGGCCTTGATATTGTGGGCTATAGACGT
+GCCACATATTCCTAAACAAAGAGATGCAAAAATGTGAATTTAAGCTAATCTCAAAAAATA
+GGATATAAGTTTTAAGGATTGTCGTCTGAAACTCGACTATATGAATAAGTAATTACTAGT
+AATCGTGAATCACCATGTCACGGTGAATTAACCTTGGATTGGTACTAACCACTCGTCACA
+TGCTGAAAAGAGCATGCGCAATAAGTTTGCTTTCTTAATAATTAGTAAAAAAAACATGCA
+GGTTTTGTACGTTCTATTATTAGGAATCTTCGTATGCGTGGTTCTAATTAGTGTTAAGTC
+GAAATACGGTTCGTGTAGTGGAAGTTGCACGGGATTAATTAATATTAACCATAATTTAAT
+ATATAATATATTCCATTATATTATATAAAGGAGGGTTCCTTTATTGGTAAGAAGGGTTGA
+GCTGTAAACTCAATAGCTATAGCTTTTAAGAGTTCGAATCTCTTGTCTCCTAAATATATA
+TTTACTAGAATTAGTAACTTAATTGGTAAAGGATTTCCCTGTCACGGAAATAGATGTCGG
+TTCGATTCTGATCTAATTCGTAATAGGAAAAGTCTTCCATTGGTAGGGTAATGCACTTGC
+TACGTGCTGTGCTTTATGCACTTAGGTGTTCAATTCACCTCTTTTCCGATTAGCCTTTAT
+AGCTCAACGGTAGAGCATAATACTGTTAATATTATGATAGATGTTCGATTCATCTTAGAG
+GCTTTTAAATCAATGTTCGAAGCTGTATTTTTAATTATTTATATAAATGACAAATTTAGT
+AAGAAGTAATTTTCAAGATCATCCTTTTCATTTAGTATCACCTTCTCCGTGACCACTATA
+TACAAGTATATCATTATTTACTTTAACAGTAAATGCTGCATTATCTATGCATCTATTTAA
+TAACAGCTATATATTCTTCTATATGGCTTTAGCTACAGTAGTAACATCTATGACTTTATG
+ATTCAGAGATATTATTTCTGAAGGTACTTACTTAGGTAATCATACTTTAGCTGTACAAAA
+AGGACTAAACTTAGGTGTTATATTATTTATAGTATCTGAAGCTTGTTTTTTCGTAGCTAT
+TTTCTGAGCATTCTTTCATAGCGCATTAACACCTACTGTTGAACTAGGTGCTCAATGACC
+TCCTATGGGTATAGACCCTGTTAATCCTTTCGAATTACCTTTATTAAACACAGTGATATT
+ATTATCTAGTGGTGCAACAATTACTTATGCTCATCATTCTTTAATTAAAGGTGATAGAAA
+AGGAGCTTTATACGGTACAATATTTACAGTATTATTAGCATTAATATTTACTATATTTCA
+AGGAGTAGAGTATAGCGTTTCTTCATTTACTATAAGTGACGGTGTATTTGGTACATGTTT
+CTTCTTTGGAACAGGTTTCCACGGATTCCACGTTATTATTGGTACAATATTCTTAGCCGT
+AGGTTTATGAAGAATCTTAGCATATCACTTAACAGATCATCATCATCTTGGTTATGAAGG
+TGGAATATTATACTGACATTTTGTAGATGTTGTATGATTATTCTTATATGTTTCAATGTA
+CTATTGAGGATCTTAATATAAAAAATATTTTTTAGAGAATATTTTCTCTAAAACGGATAT
+AGGTTAATGGTAGACTTACCGATTTCCACTCGGCAGATGTCAGTTCAAATCTGACTATCC
+GTATTCGTGAATTGCTTAACGTAAATAAGCTATATACATTATTTAATACAATTTACCCCT
+ATTTTTAGGTTAAACAAAAAGAAAGAATGAATCAATTATTAGCCATTTATGATATATTAT
+CAAATGGATATACAGTGGAATATCTAGATATTTTAAGTATAATAGCATTATTATTTGGAA
+TAGCGGTTATAATAAATAAAAACCCTATAGCATCTCTTCTATCTTTAATAGGATTATTTG
+CATCTATTTCTGTTTATTTAACATTATCAGGATTAACTTTTATAGGTTTTTCTTATTTAA
+TTGTATATATAGGAGCAGTGTCTATATTATTTTTATTTATTTTGATGTTAATTAATATAA
+GAACAAGTGAGTTACAAAGTAACAATTGAAATAGTGTTCCTTTAGCATTATTTGTAACAA
+TATTATTAAATTATACATTATTCCAATTATTACCTTATTATATTGCTATAATAAATAATT
+ATAATAGTAAAATAAGTAATTTAATATATTACTTACCAACAAGTAAATATAATGATGTTA
+TATCTCATATAAATAAAAATGTAGAGGTAAACACATCTAATATTATGTTTGTAACAAGTA
+ATAGTTGAGATGGTAATATGACAGAAACAAGTCATATTTCTACAATAGGTAATATATTAT
+ATACTTCTTACAATATGTGATTATTTATTGCTAGTATAATTTTATTATTAGCAATGGTAG
+GAGCTATTATCATAACTATAAAACAAGAACGTAATAGGGAAATTAGTTCAATTGGCGGAA
+CGTTTGTTTTACACACAAAATGTTAAAGGTTCAAATCCTTTATTTCTCAAAATTCCTTAA
+CTTAACAGGTAGAGTGCATTTTTGATAAGAATGATATCAGCGTTCGATCCGCTGAGGAAT
+TAAATGGTATAAAATGTTCAAGTTTTAATAAAGAGAATTGGCCGAGTGGTTTAAGGCGGC
+AAGTTTGAGTTTTGCTCGGTTAGCAATAACCACATCCGTTCAAATCGGATATTCTCTGTT
+TTTACTTTCTTGGTTTTTATAAAGCTAAAATTAAGAAGAAAGAGTGTAGTTTAATTGGTA
+AAATAGGAAGCTTCAACCTTCAAATTCTTGGTTCGAGTCCAAGTACTCTTGTAATAGTTT
+CATTCTGGATTAGGATTAAGTAGAGTTTCGTTTGGAAATAGGTCGTAAATTAATAAAAAT
+AAGAAATATTAAACGTTTAAGTTATCTATTTTAACGTTAAAATACAACAGATCATAATTT
+AATTAGTAGAATATCTTCTTTGGGAGAAGATTATGTAAGTGCAAATCTTGCTGATCTGAA
+ATTTTGGATATAATAATCCGAATGTTAGAACTATTAGAAATATAGTCTTTCTATTTGTGT
+AGCAGCTGTTAAAACAAAAGCTATTACAAGAAAGAAAAAAAATGATATATAAGTATTACT
+TGTAATTATATAAGTATATAAAGAAACTATTATGGAATTTAAGCTATGTATTAAAGAGAA
+TTATTTATATATATAGAGATATGATATCCTATAATTATATAAACTCTAAGAGAAATCTAA
+TACTAAACGAAGTGAATTGAAATATCTTAGTAACTTCAGGAAAAGAAATCAAAAGAGATT
+CTATGAATAGCGTGAGCGAAAGTAGAGTAGCCTATAAAGTAGAACGGTCTTAAAACTGTT
+TAAATATAATGGGGAACCTTCCTCAAAGGCTAAATATAATACATAAGCGATAGTGAAAAG
+TACCATGAGGGAACAAAAACAAAAATAGTAGTTTTATAAGCAGTTCGATAAAAAGAACGT
+ACCTTTTGCATAATGGGTCACCAAGTTAACGTTAGATGCGAGTATATGCGTAGTTAAACC
+GAACGTTAAAATAACGAAATAGTGTCTAAAGTTAGACCCGAAGCACGGTGATTTTACCAT
+GGTCAGGATTATAAAAGTCCGAACGGGTGATTGTAGCAAAAATCTCCGAAGAACTGTGGT
+AGGTGTAGTGAAAGACAACACTGACTGTGATAGCTGGTTTTCTGCGAAACCTATAATAGT
+AGGCAATTTAAGTAAATATCTTAGCAGGTACAGAATTTAATCTCAGACAAGACGTGTAAA
+CGTTTTATATTGTACAAATTGGGGGATCATGAAGATTTTATCAGTGAGTATGTAGACTCG
+GAATGGCAAAGATATGTCTTAAATTATCAGACATAGAATGATAAGGTTGTATGTCGAAAG
+GGAAACAGCCCAGAACAAGAGTTAAGGTTCCTAAATTATTAGTTAAGTGAAATTAAGAAG
+GTTTTTATTAAAGTCGACAAGGAGATAGGCTTAGAAGCAGCCATAATTTTATGACCTCGT
+AACAGAGCGCTTGTTAAGTTATAAAAGCATCGAAAATATAACGGATCTAAACAATATACC
+GAAACCTTGTCCATAATATATTATATTAATTATTTTTAATGTAATTTAATGGGGTAGCAG
+AACGTTGAGCTAGATTATGATTTCTATTTTTTAAATAGAATTATATTAATTTAACTCAAG
+TGAGAATGGTGACATGAGTAACGAAAAGAAAATTTTCCGCCTTAAGCTTATGGATATAAT
+TAAGTAACGGCCTCTAAGTTTATATTATCTAAAGATTTAAACGATGAGAAAATCTTTTTT
+ACTAAGGACAACATTTTAGTGTAAAATGTGCTGGAAAAATAGTAAATATATTTGTTATTT
+ATAACAAATGAACAATAACCGTACCTAGAATCTGAAACAAGTAAGCTAGTAGAGAATACG
+AAGGCGTAAATGAGCTAACAATCATAAAGGAACTCGGCAAATTGACTACCGTAACTTCGG
+AATAAGGAGGGCTCATTATTCTTGATTAATATCAAGTAAAGAGGAAGAAGCATGAAATAA
+TGTTGTACGACTGTTTAATTAAAACACAGCACTTTGCTGAAAGATTAAAAATCTATGTAT
+AAAGTGTGATATCTGCCCGGTGCCGGCTGGTTAACAGAGATAATTGAATATACTACTATT
+TGATGTCGACGGAAACCCCGGTTAAAGGCGGCCTTAACGTGAGGGTCCTAAGGTAGCGAA
+ATGCCTTGGCCGTTAAATGCGGTCTTGCATGAATGGTGTAACGATACAACAGCTGTCTCT
+ATGATTGACTCAGTGAAATTGGAATAGCTGTGCAGATACAGCTTACCTCTAGTTAGACGA
+GAAGACCCTATGCAGCTTTCCTGTCACTAATTATAGAGTATGATAGACAATTTTCAGATT
+ATAAGGTAATTGACGATATGACAATGAGAATCCTTTATTTTTCTTTCATATGAATGAATT
+GGTTTAGGATTATGAGTAGATTGTAATTAATGTGGCTTATTACTGAGTCGTTTAAAAACA
+TTAATTATAGTCTTTAAATTATTATATAGCTCATTTTAGTAAATCAGCCTAATTCAACTT
+ACTATTTTAGAATAGTAAGTACCCTTTGGCAAGGAACTATCGCTAGGGGACAGTTTATGT
+GGGGCACAGACCCTGTAAAGAGTAAACAGGAGTGTCTAATAATTATAAATTATTTTGTTT
+GCTATTTTGAGTAGTAAGCGCAAGCTACAACTATTTTTAATCATATATAATTATTTATAT
+TTGCATTTATTGTAAATATATTTAAGTTTAGGTAGGATTTTTACTATATAGAAATTAGAG
+ATAATTGAAAATATTACGAATTTTTCTAATGTTTTCTAGCTATCATTTTTGATAGTTATG
+TATTCAATATCTAAAAAGCTCAACGGCTAAATCTTGCCTTACTGTTTGATTATCTACAAA
+TCTTACAGTTGCGTAAGCAGGGCATAGGATCACAAGATGCAATAAGGAAAGATCTTGGAT
+TATTGGAAAAGCTACGCTAGGGATGTTTGTCCTTTAAAATTTTATTTTGATTAGTAAGTT
+ATGCATTAATTATGTATGAACTAAAACTACAAATAAAATTATTAATATAAATTGGGTAAA
+TTTCAAGAATTACTAATAATAGTAAACTTGAAGCGAAATTTATCTTAACATAAATTATAA
+GATAAAAACGTTCAACGACTATAAGGTGAGTTTTATGTAATTAACAATAATCCTTTTAAT
+ACTACCCAACATTTTAATTCAACATATTTAAAGAAAAAGTAAAATAAATTTATAACAAAA
+TAATCATGAAAGTATTTAATAATAACTTGAAAAATATACCTAAAACTATTGCTTTAAGAA
+ATAAAGTAGGAGATATAGGGAAAACAAAATATTTACCCTCTTTCTCTAAAGAATGAAAAA
+ATATTGTTTATTCTTATAATAAAAATAATTTAAAGAATATACCAGTTAATGATGTAAATA
+TTAATAGAATATACCAGTTAATGATGTAAATATTAATAAAATAATACAAAGTTATTTTAA
+TTTATATTTTAAAGATCATAAATATGTAGGTTCTAAGAAATTTATATTACTTAGAAGAAG
+ACGTAATTTTTTAAGAAGAATATATGTAAGTAATGCGGAAATTAAACATACGAATAATAA
+AGCAATAATTACTTTATTCACTGTAAATAGAGAAAAGAAAATATTAAAAAATAAATATTT
+AAAAATAAATAAAAAAGTAAGTAAGAATTTAATAAAACGTTATTTCTTATTATATAAAAA
+TAATATAACTAAAATACACGAAATATTAAATAAACAGAAAAATGAATATGCTTTTGTATC
+AGATAAAATTTCAAAAAGAAAATTTATAAGTTATAAATTAGAATATTTAAACAAATTTAT
+AGAATTAAAGAATCTTTACTTGAAGAAGGTATGAAGTATTATTATTAGCAAATATTGAAA
+AACATATTTGAAATTATTAAGAAAATATGACTTAATGTATTCTCTTAATCAATATAAATT
+TAATAAACAAATACTTTTACCTATTTTAAGTAATATATTAAATAAAATAATAGGAAAGAA
+AGTAGAATATAATATAATAAATTTAAAATCTATTGTATACAATACAGATCTTTTTACTAA
+TGCTTTATCTTTAAAATTGAAAAAAAAGAGAATGAATTATATAAAAAGTATGTTTAGTAT
+ATTAAATAGAGCTTATTTACCTAAAATTAATACAATAAAAGAAAGAACTTTAGCTAATAA
+TGTTGATTCATTTTTAGATAAATATAAAGATTTGAAAATAATTTCTAATCTGGGCGCAAG
+CTCTAATAATAATTTAGATAAATTATTAGGTGGTTCTTCTAATACCAAGGAAGTTCATAA
+CACAATATATAACTCTATAGGTTATAAAAATATGGGAGGTATAAGATTAGAAGTTAAAGG
+TAGATTAACTAAACGTTATAGAGCAGATAGATCTATATATTCATTAAAATGAAAAGGTGG
+ATTAAAGAATGTAGATTCATCATTTAAACGTTTAAGTTCAGTCTTATTTAGAGGAAACTC
+TAAATCAAATGTATCTTATTCATTATCTAACTCAAAACGTCGTATTGGGGCTTTTGCAGT
+AAAAGGTTGAATAAGTGGTAAATAAATATTAAAGGAAATCTTAAATATGTAAAGAATAAA
+AATGAAGACATAGTCTGAACCATTTTGAAAGAAATGGAAATATAAAATTATGATAACATA
+CAGAACAGGCTAATTTGCGCAAGAGTGTACAAAATGAGTGCGCGGTTTGGCACCTCGATG
+TCGGCTTAACTTATCCTCATGGACGCAGGAACTATGTAGGGTGCGACTGTTCGTCGATTA
+AAAAGTTACATGAGCTGGGTTAAATACGTCGTGAGACAGTATGGTTTCTATCTTCTAGGG
+GGAATTAGAATAAAATAAGAACGAACTTTTGTACGCAAGGAACAAGAAGAGTTTAGCCCG
+TAAAAAGGTTAAAATATGGTTACTAACCTATGGTTTACCTGTTGTTTATGTGCCCATATA
+TTAAATATATATACAATTGTATATATATATATGTATTATTATACATAGGGATGTTTCTCT
+CACTAAGATAAATGTATAGCATAAGCACGGCAGGAACGCTAAGTTGGTTAAGGATAAGTG
+CTGAAAGCATATAGGCACGAAGCTTATCTTAAGATATTTCTTAAATATACGTAATATACT
+ATTACGAACTTTATAGGCTTTATCCGTACGAATCTAGAGATTTTAAAGATTAAAGTACTA
+ATTTAATAATTCACTATTTATAAATATATCAATATACGCTCGATTAGCATAAAAGTAATG
+CAATTGTTTTGTAATCAATAGAAGCAAGTGCGATACTTGCATTGAGCTAATTAGGATTAG
+TAGTCAAGTGGTAAGACATAGCTCTTTCAATGCTACCATCGCAGGTTCGAGTCCTGTCTA
+GTCTAAGCGGGTTAGTGTAATAGAAACATATTCGGTTCATGCCCGAAAGATATGGGTGCA
+AGTCCTGTAACCGCGTTTTAGATCTACTAGTGATATAAAGGGTTATAGCTTAATAGGTAA
+AGCATACTGCTCATAACAGTACTTATAAGTGTTCAAGTCACTTTAGCCCTAGAGTCCGAA
+TGGTGAAATTGGCAAACACAACAAACAAGTCTAAGTGCTGGAATCGGAAGACAGTGATTA
+CTTAAGATAATCTGGGAATAACCCGTGAGTGTTCAAGTCACTCCTTAGATATAATAGTAA
+TATGTACTATTTTTAAAATTTATTAATACAACAAAACAATGAAACCAATTTATTCTTATA
+TCAATCCTTATTTGGATAGAAAATTAATATATAAAGATTTAAAAGATAAAAGTGGTATTT
+ACCTATGAACTAATATAAATTCTAATAAAAAATATGTAGGATCTTCTGTTAATCTATCAA
+GAAGATTAAGAGATTATTTTAATAAATATTACTTAGAATCAGAAGTTAAAAAGAATAACA
+GTCTTATTTATAAAGCTTTATTAAAATATAATTATACTAGTTTTAAATTAGATATAATTG
+AATTATGCGACCCTAAGTCTTTAATAGAAAGAGAACAATTTTATTTAAATACTTTAGATT
+TAAAGTATAATACTTTGAAAGTAGCTGGATCTCTATTAGGATTTAAGCATAATTGTATTT
+CTAAAGAAAAAATACGTGTAGCTAAAACAGGGTTACCTTTTTTAGGTAATAAACAAGATG
+CGTTTTCTAATCGTAAATCTTTACCTGTAATTGTAAAAGATACTAATGTTGGACAAATAA
+CTTATTTTCCTTCAATTAGAAGAGCAGCATTATTTGTTGGCGTACATTATTCTTATCTTT
+CTGAGTGTTTAAGTAAAAAAGGATTTTATAAAGGTAATGGTTATTATATCACTAAAAATC
+TTGATATATAAGGGGATGTAATTCAGTTTGGTAGAATGCTAACTTTGCACGTTAGAAGCC
+TAGGTTCGATTCCTAGTATCTCCATAGCCCGTGAAGCTCAATTGGTTGAGCAGAACAGTG
+AAGTTGTTTTGGTTGTAAGTTCGAGTCTTACCATGGGCATATTTAAGGAACTTTAGTATA
+ATGGTGAATGCGTATGACTTTTAATCATTAAAATGTAGGTTCGATTCCTACAAGTTCTAT
+TTTATAATAGATATGCTATCTATACAATTCTATAAAATAATTGTAGAATAGGTAGACATC
+AGTCAATTTACTAGATCTTTTAGCGAAGAAAAATTAATATTAAAATAAGGAAAGGTTGTC
+ATAGGTAAGACAAGTGTTTAATTACATAATATTGGCGTCAATTAGGATGTTCGAATCATC
+CCCTTTTCGTTTAGAAGATATTTGCTTCTTTTATTCTTAAAATTTTATATCCAAATGAAA
+AGACATTTTAATGTTTTTATATCTTTTTTAAAGAAATTGTTTACATTAGTAAACTTTAAA
+AAATTAGTAATTCTATTCATTACAGGTATGTTATTTAGGCATATTATAAATGAATCTGTT
+AATTATTATTCTTCAATAGAGTATATAACTTGTGCTTTTTTATTTTGTAATATGAATATC
+ATATCTATATTAAATCATATATTCAAAGAAATTGTAATATTTCTTAATTATAAATTGTGT
+AGCTCTAGTACAGTCATTTTACATATAAATCAACCTAGTAAATCAAATAGTTATCAGAGT
+GCTAATTTCGATTCACAATATTATGATGTTCAAGGTAGAATATCAATATCTCAACCCTCT
+CAATTATCAAATTATGATATAGATTTCGAGGCTAGAAAAAAGATAACTTCTCAACTATTT
+GAAGAAATTGCACAACCCACTAGATTTAGAGAAGTAAATATACCTCTTAATAATGCAACG
+GGTGAAATAAATTTAGGTATTAGATATTATGATAAACCATGTAATGCTCATGGATTATAT
+GTTAAGTATTATAATTTATTTAATCAAGAATATGTTTGACATGTATGAGAAAAAGATTCT
+AACTATCTAAGATTTTCAGATGTTAGATATAATATCAGTTCTAAGATTAATGTATGAAAA
+GAAATTAATAAAATAACTGGTACTAATTTATCTAGAGAAGTTCGAAAATTATTAGATACT
+GATCCTTTCCATATAAATAAATCTAACTAAAAATAGTAAGATTTGTTTAAATTTAGAGAT
+AATTGTCTCTTTTATTATTAAAACTTTATATAAAAAAATGAAAAGATTTTTCTACACTAT
+TATATCTTTATTAAAAAGATTTTTCACTCCAGTAAACCTAAGTAAAGTTATAGTTATATT
+CTTTGTTGGTTTTATGTCTAGATATCTAATTAATGATTTTTTAGGTATCAACGTATTTAC
+AGAATATTTAACTTTAGCTTCTATTACCTTTTATTCAGGGTTTGCGGCTTTTATTGTTTT
+CGTCCACGAATTCTTCTCTTTTTTCAATGTTAGTATTATACCTAATTTTGTTTGAAGTTT
+ATGTTCGAAAATTGGCTTAGCCTTAGATTACCTATTTATAAAACCTTTTGTTTGAGTTTA
+TTCTAAAACTTGAGGTAAGAATATTCATATATTACATATGAATGATCCAAGAAATTCCAA
+TGGGAGTATTTATATTGGTAATGAACGAAATCATTACTCTTCTGTAGGATCTTATAGTAT
+AGATAGTTATTATAATAGAGTAGCTCAACAGAATCCTTATCAAGTAGAATATTCTCCTGT
+TAATCGTATTCCTCATCCGTCTCATTATCCTTCTGAACAATATAACTATGAATCAGCTAG
+TTATAATGATGAATATGTTGATCATAACGTTTCTCAATATTATAATACTTCTTATTCAAG
+AACTCAGCAAGATTATAACTACCAAGAAGAAGACAGTTCTAGGTTTTTTCGTATTGATAC
+TATTGAACAAGATGGTGTAGATAGAAGTTTTTATACTCCTGTTAACCAACCAAATACTCC
+TAGAATGAGTAATAATACAACTCCTCGTACTATGACTCCATTATTTGGTTCTACTGAAGG
+CCAAAATTCTAATCGAGTTTCTGAAGCTAGTGTAGTTTACACTAATGATACAGCCCATGG
+AACTTTAGGACCTAATAGATCTGAAGCTCATATAAATTGAGCTGCTAGAAGATATTATGC
+TAATAGAGCTATTGAAAATAGTCTTGCTGAAGCACAATTCTTCAATGAAGAAATACGTGT
+TCCTTCTCCTCAAATTAAGGGTAAAGTATCTTTAGGTATTAAATTCCTTGATGAGAAATC
+TAATGTTCAATCGTTGTATGTTAAATATCACGATTTAGCTAAACGTAAATTCTTCTGAAA
+TATTTGAGAGAAAGGTCGTAATAATTATGATTCTTATGAAGAGTTTAAAACAAATTTCGA
+TCCTAAAACAAATATATGAAAGGAAATAGCTAAAGCTACTAAGAGTGACTTGTCTAAAGA
+AGTACGTAGCTTGTTAGATACTGATCCTTTCAGAACTAAGCGTCCTACTGTTACTCCTAG
+AGATATTAGAAAAGTAACTTATACTAAAACTCAAGATCGTTTAAATCGTTTGAATGCAAC
+TAGATATAATGCTACAGATTTACCTAGAAAATAAAGGCTTAAACTATTATAGAGACATGT
+AAAGTATTACGCTTTACAAGTTTAAGTCTTATTATCTAATAGATAATTGTCTCTTTTATT
+ATTAAAATCCCAAACTATGACTAAAAATTTAAAATTATTTTTCAAGAGTCTTTCTCTTTC
+TAATATTTTATTTAAGATTTTAGTTTTATTTCTTGTAGGTATTTTTAGTAGGTTCTTAAT
+TAATAATCTTTTTGATTATACGTTATTAGTTGAATTATTTTCTTTCCTTTCTCTATCTTT
+ATATGTTAGTCACTTTTCTTTTTTTGATTCTATAGATTCGAAGTTTTTTGAAGATAATAT
+TAATTCTTTTAAGAGACCTAGGGATAGAGTTATTAATAATAATGATAATATTAATAAAGA
+TTCATCGCTTGCGCACGGATTTAAAAATAAGTTCAGACGTAAATGTCATTGAGTTTTTTT
+AGAGCAATTTAGTTCCGAATTTAAAGACTTTAAAGATTTCAAAGGTTATTGAGATCCTAA
+TAAGAAATATATTAATTTACTTAAAGATCAATATTATGATAAGAAAGATAGAATCAAGCT
+TTTTAAGAAGACACTTTCATGATTTCTAAATCGTAGRAATAACTAAAGAATAATAAATAT
+ATTATTTGCTTCTTTTTACTAATATAAACAACAATATAATGAATACTCACACAAAAAATC
+AGATTTATACAGACAAATTTGAAATAGATCTAAATGATTTTAGAACACCTATCGAGTTTT
+CAAATTATTTATCTAATTTCTTAAGCAGTTTTGTTAATAACAACTCTATTGTTTATCCAA
+ATACTATGCATATTGAATTTAGTAATGGATTATCTAACATTTCTTTTATGTTCGTATACC
+CTTATATTGATAGAAATATTTCATATGAAATATTTTTCAAAGATAAAATTCTAAGTTGTA
+CTAATAAATTATACTTAAGAATATCTTATATTAACTAGAGTAATTTTGACTCTTTTTGTT
+AGATTTATAAACACTAACATGAAATATATTTTATTTTATATAACATTATATTATACTATA
+ATGATAAGCCTATCATTATTTATTACAAAAAAACATTTGAGAATAGGGAATTTGCCATTT
+GCTATAATAATATTCATGTATATTATAGCCGTTATATTAGCTATATTTGGTCTTTTTGAA
+GACTTAAATATAATATCTGTAAGCCCTGAAACTATGAATTACTTAGATGAATTAGATTTT
+GCGGTAGAGTTACCAGAAACAGAATATAATCATCAAGTTATAAGTAGTCAGACTTTAGAT
+AGTACTAATAATATATGATTAGGCTTTCTAAATTTATTTAATAATAATAATATTTACTTT
+TCAATACATACAGAATTGAAAAACATTTATTATATAAATAAACACGGAATTATTAATTAT
+AATAGAGTCGAGTGAATAGATATTTGTGAGAAATATAGGTATGCATCCGCTCATAATAAG
+GAAGTTTTATTATTCATAGACTCTTTTATGGATGTTTTAAAAGATCTAGAACCAATACAA
+GATAACTTATCAAAGGCAAAAGTATAAATGTCATTCCATAAATTACCAGGAATTATGAAT
+TATTGAATTTTTGATAATTCATAAGGAAGAATAGTATAACTATTACAATTAACTTAAGTT
+AATAGATTTGGA
